@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Images</key>
+	<array>
+		<dict>
+			<key>ImageIndex</key>
+			<integer>38</integer>
+			<key>NumberOfROIs</key>
+			<integer>1</integer>
+			<key>ROIs</key>
+			<array>
+				<dict>
+					<key>Area</key>
+					<real>0.006665191613137722</real>
+					<key>Center</key>
+					<string>(38.696289, -139.553711, -195.250000)</string>
+					<key>Dev</key>
+					<real>7.0474586486816406</real>
+					<key>IndexInImage</key>
+					<integer>0</integer>
+					<key>Length</key>
+					<real>0.39329022169113159</real>
+					<key>Max</key>
+					<real>152</real>
+					<key>Mean</key>
+					<real>144.5</real>
+					<key>Min</key>
+					<real>138</real>
+					<key>Name</key>
+					<string>Left Anterior Descending Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>8</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(38.085590, -139.757812, -195.250000)</string>
+						<string>(38.085590, -139.349609, -195.250000)</string>
+						<string>(38.492188, -138.943008, -195.250000)</string>
+						<string>(38.900391, -138.943008, -195.250000)</string>
+						<string>(39.306999, -139.349609, -195.250000)</string>
+						<string>(39.306999, -139.757812, -195.250000)</string>
+						<string>(38.900391, -140.164413, -195.250000)</string>
+						<string>(38.492188, -140.164413, -195.250000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(315.003922, 188.000000)</string>
+						<string>(315.003922, 189.000000)</string>
+						<string>(316.000000, 189.996078)</string>
+						<string>(317.000000, 189.996078)</string>
+						<string>(317.996078, 189.000000)</string>
+						<string>(317.996078, 188.000000)</string>
+						<string>(317.000000, 187.003922)</string>
+						<string>(316.000000, 187.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>578</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

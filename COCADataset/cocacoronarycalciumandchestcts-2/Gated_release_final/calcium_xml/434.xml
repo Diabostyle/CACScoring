@@ -1,0 +1,2295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Images</key>
+	<array>
+		<dict>
+			<key>ImageIndex</key>
+			<integer>20</integer>
+			<key>NumberOfROIs</key>
+			<integer>1</integer>
+			<key>ROIs</key>
+			<array>
+				<dict>
+					<key>Area</key>
+					<real>0.028090363368391991</real>
+					<key>Center</key>
+					<string>(-1.519287, -236.331787, -229.000000)</string>
+					<key>Dev</key>
+					<real>52.218105316162109</real>
+					<key>IndexInImage</key>
+					<integer>0</integer>
+					<key>Length</key>
+					<real>0.73804682493209839</real>
+					<key>Max</key>
+					<real>285</real>
+					<key>Mean</key>
+					<real>200.69230651855469</real>
+					<key>Min</key>
+					<real>139</real>
+					<key>Name</key>
+					<string>Right Coronary Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>16</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(-2.650521, -237.000000, -229.000000)</string>
+						<string>(-2.650521, -236.535156, -229.000000)</string>
+						<string>(-2.650521, -236.070312, -229.000000)</string>
+						<string>(-2.187500, -235.607285, -229.000000)</string>
+						<string>(-2.185677, -235.605469, -229.000000)</string>
+						<string>(-1.722656, -235.142441, -229.000000)</string>
+						<string>(-1.257812, -235.142441, -229.000000)</string>
+						<string>(-0.794792, -235.605469, -229.000000)</string>
+						<string>(-0.792969, -235.607285, -229.000000)</string>
+						<string>(-0.329948, -236.070312, -229.000000)</string>
+						<string>(-0.329948, -236.535156, -229.000000)</string>
+						<string>(-0.792969, -236.998184, -229.000000)</string>
+						<string>(-0.794792, -237.000000, -229.000000)</string>
+						<string>(-1.257812, -237.463028, -229.000000)</string>
+						<string>(-1.722656, -237.463028, -229.000000)</string>
+						<string>(-2.187500, -237.463028, -229.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(175.003922, 128.000000)</string>
+						<string>(175.003922, 129.000000)</string>
+						<string>(175.003922, 130.000000)</string>
+						<string>(176.000000, 130.996078)</string>
+						<string>(176.003922, 131.000000)</string>
+						<string>(177.000000, 131.996078)</string>
+						<string>(178.000000, 131.996078)</string>
+						<string>(178.996078, 131.000000)</string>
+						<string>(179.000000, 130.996078)</string>
+						<string>(179.996078, 130.000000)</string>
+						<string>(179.996078, 129.000000)</string>
+						<string>(179.000000, 128.003922)</string>
+						<string>(178.996078, 128.000000)</string>
+						<string>(178.000000, 127.003922)</string>
+						<string>(177.000000, 127.003922)</string>
+						<string>(176.000000, 127.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>2609</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ImageIndex</key>
+			<integer>26</integer>
+			<key>NumberOfROIs</key>
+			<integer>1</integer>
+			<key>ROIs</key>
+			<array>
+				<dict>
+					<key>Area</key>
+					<real>0.015125580132007599</real>
+					<key>Center</key>
+					<string>(1.531250, -232.274094, -211.000000)</string>
+					<key>Dev</key>
+					<real>17.468338012695312</real>
+					<key>IndexInImage</key>
+					<integer>0</integer>
+					<key>Length</key>
+					<real>0.57933938503265381</real>
+					<key>Max</key>
+					<real>181</real>
+					<key>Mean</key>
+					<real>154.14285278320312</real>
+					<key>Min</key>
+					<real>134</real>
+					<key>Name</key>
+					<string>Right Coronary Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>12</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(1.068229, -232.816406, -211.000000)</string>
+						<string>(1.066406, -232.814590, -211.000000)</string>
+						<string>(0.603385, -232.351562, -211.000000)</string>
+						<string>(0.603385, -231.886719, -211.000000)</string>
+						<string>(1.066406, -231.423691, -211.000000)</string>
+						<string>(1.531250, -231.423691, -211.000000)</string>
+						<string>(1.996094, -231.423691, -211.000000)</string>
+						<string>(2.459115, -231.886719, -211.000000)</string>
+						<string>(2.459115, -232.351562, -211.000000)</string>
+						<string>(1.996094, -232.814590, -211.000000)</string>
+						<string>(1.994271, -232.816406, -211.000000)</string>
+						<string>(1.531250, -233.279434, -211.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(183.003922, 137.000000)</string>
+						<string>(183.000000, 137.003922)</string>
+						<string>(182.003922, 138.000000)</string>
+						<string>(182.003922, 139.000000)</string>
+						<string>(183.000000, 139.996078)</string>
+						<string>(184.000000, 139.996078)</string>
+						<string>(185.000000, 139.996078)</string>
+						<string>(185.996078, 139.000000)</string>
+						<string>(185.996078, 138.000000)</string>
+						<string>(185.000000, 137.003922)</string>
+						<string>(184.996078, 137.000000)</string>
+						<string>(184.000000, 136.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>1079</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ImageIndex</key>
+			<integer>32</integer>
+			<key>NumberOfROIs</key>
+			<integer>1</integer>
+			<key>ROIs</key>
+			<array>
+				<dict>
+					<key>Area</key>
+					<real>0.071306303143501282</real>
+					<key>Center</key>
+					<string>(-2.437796, -225.396774, -193.000000)</string>
+					<key>Dev</key>
+					<real>119.00753021240234</real>
+					<key>IndexInImage</key>
+					<integer>0</integer>
+					<key>Length</key>
+					<real>1.1212006807327271</real>
+					<key>Max</key>
+					<real>531</real>
+					<key>Mean</key>
+					<real>289.66665649414062</real>
+					<key>Min</key>
+					<real>133</real>
+					<key>Name</key>
+					<string>Right Coronary Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>26</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(-3.115365, -226.773438, -193.000000)</string>
+						<string>(-3.117188, -226.771622, -193.000000)</string>
+						<string>(-3.580208, -226.308594, -193.000000)</string>
+						<string>(-3.582031, -226.306778, -193.000000)</string>
+						<string>(-4.045052, -225.843750, -193.000000)</string>
+						<string>(-4.045052, -225.378906, -193.000000)</string>
+						<string>(-4.045052, -224.914062, -193.000000)</string>
+						<string>(-4.045052, -224.449219, -193.000000)</string>
+						<string>(-3.582031, -223.986191, -193.000000)</string>
+						<string>(-3.580208, -223.984375, -193.000000)</string>
+						<string>(-3.117188, -223.521347, -193.000000)</string>
+						<string>(-2.652344, -223.521347, -193.000000)</string>
+						<string>(-2.189323, -223.984375, -193.000000)</string>
+						<string>(-2.187500, -223.986191, -193.000000)</string>
+						<string>(-1.722656, -223.986191, -193.000000)</string>
+						<string>(-1.259635, -224.449219, -193.000000)</string>
+						<string>(-1.257812, -224.451035, -193.000000)</string>
+						<string>(-0.794792, -224.914062, -193.000000)</string>
+						<string>(-0.794792, -225.378906, -193.000000)</string>
+						<string>(-0.794792, -225.843750, -193.000000)</string>
+						<string>(-0.794792, -226.308594, -193.000000)</string>
+						<string>(-1.257812, -226.771622, -193.000000)</string>
+						<string>(-1.259635, -226.773438, -193.000000)</string>
+						<string>(-1.722656, -227.236465, -193.000000)</string>
+						<string>(-2.187500, -227.236465, -193.000000)</string>
+						<string>(-2.652344, -227.236465, -193.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(174.003922, 150.000000)</string>
+						<string>(174.000000, 150.003922)</string>
+						<string>(173.003922, 151.000000)</string>
+						<string>(173.000000, 151.003922)</string>
+						<string>(172.003922, 152.000000)</string>
+						<string>(172.003922, 153.000000)</string>
+						<string>(172.003922, 154.000000)</string>
+						<string>(172.003922, 155.000000)</string>
+						<string>(173.000000, 155.996078)</string>
+						<string>(173.003922, 156.000000)</string>
+						<string>(174.000000, 156.996078)</string>
+						<string>(175.000000, 156.996078)</string>
+						<string>(175.996078, 156.000000)</string>
+						<string>(176.000000, 155.996078)</string>
+						<string>(177.000000, 155.996078)</string>
+						<string>(177.996078, 155.000000)</string>
+						<string>(178.000000, 154.996078)</string>
+						<string>(178.996078, 154.000000)</string>
+						<string>(178.996078, 153.000000)</string>
+						<string>(178.996078, 152.000000)</string>
+						<string>(178.996078, 151.000000)</string>
+						<string>(178.000000, 150.003922)</string>
+						<string>(177.996078, 150.000000)</string>
+						<string>(177.000000, 149.003922)</string>
+						<string>(176.000000, 149.003922)</string>
+						<string>(175.000000, 149.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>9559</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ImageIndex</key>
+			<integer>36</integer>
+			<key>NumberOfROIs</key>
+			<integer>2</integer>
+			<key>ROIs</key>
+			<array>
+				<dict>
+					<key>Area</key>
+					<real>0.056180726736783981</real>
+					<key>Center</key>
+					<string>(46.679199, -161.211090, -181.000000)</string>
+					<key>Dev</key>
+					<real>66.439704895019531</real>
+					<key>IndexInImage</key>
+					<integer>0</integer>
+					<key>Length</key>
+					<real>1.0554618835449219</real>
+					<key>Max</key>
+					<real>344</real>
+					<key>Mean</key>
+					<real>224.92308044433594</real>
+					<key>Min</key>
+					<real>134</real>
+					<key>Name</key>
+					<string>Left Circumflex Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>24</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(45.693222, -162.625000, -181.000000)</string>
+						<string>(45.693222, -162.160156, -181.000000)</string>
+						<string>(45.691406, -162.158340, -181.000000)</string>
+						<string>(45.228394, -161.695312, -181.000000)</string>
+						<string>(45.228394, -161.230469, -181.000000)</string>
+						<string>(45.691406, -160.767441, -181.000000)</string>
+						<string>(45.693222, -160.765625, -181.000000)</string>
+						<string>(45.693222, -160.300781, -181.000000)</string>
+						<string>(46.156250, -159.837753, -181.000000)</string>
+						<string>(46.158066, -159.835938, -181.000000)</string>
+						<string>(46.621094, -159.372910, -181.000000)</string>
+						<string>(47.085938, -159.372910, -181.000000)</string>
+						<string>(47.550781, -159.372910, -181.000000)</string>
+						<string>(48.013809, -159.835938, -181.000000)</string>
+						<string>(48.013809, -160.300781, -181.000000)</string>
+						<string>(48.013809, -160.765625, -181.000000)</string>
+						<string>(48.013809, -161.230469, -181.000000)</string>
+						<string>(48.013809, -161.695312, -181.000000)</string>
+						<string>(47.550781, -162.158340, -181.000000)</string>
+						<string>(47.548965, -162.160156, -181.000000)</string>
+						<string>(47.085938, -162.623184, -181.000000)</string>
+						<string>(47.084122, -162.625000, -181.000000)</string>
+						<string>(46.621094, -163.088013, -181.000000)</string>
+						<string>(46.156250, -163.088013, -181.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(279.003922, 288.000000)</string>
+						<string>(279.003922, 289.000000)</string>
+						<string>(279.000000, 289.003922)</string>
+						<string>(278.003922, 290.000000)</string>
+						<string>(278.003922, 291.000000)</string>
+						<string>(279.000000, 291.996078)</string>
+						<string>(279.003922, 292.000000)</string>
+						<string>(279.003922, 293.000000)</string>
+						<string>(280.000000, 293.996078)</string>
+						<string>(280.003922, 294.000000)</string>
+						<string>(281.000000, 294.996078)</string>
+						<string>(282.000000, 294.996078)</string>
+						<string>(283.000000, 294.996078)</string>
+						<string>(283.996078, 294.000000)</string>
+						<string>(283.996078, 293.000000)</string>
+						<string>(283.996078, 292.000000)</string>
+						<string>(283.996078, 291.000000)</string>
+						<string>(283.996078, 290.000000)</string>
+						<string>(283.000000, 289.003922)</string>
+						<string>(282.996078, 289.000000)</string>
+						<string>(282.000000, 288.003922)</string>
+						<string>(281.996078, 288.000000)</string>
+						<string>(281.000000, 287.003922)</string>
+						<string>(280.000000, 287.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>5848</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+				<dict>
+					<key>Area</key>
+					<real>0.051859129220247269</real>
+					<key>Center</key>
+					<string>(55.007660, -219.820145, -181.000000)</string>
+					<key>Dev</key>
+					<real>80.1380615234375</real>
+					<key>IndexInImage</key>
+					<integer>1</integer>
+					<key>Length</key>
+					<real>1.0554618835449219</real>
+					<key>Max</key>
+					<real>394</real>
+					<key>Mean</key>
+					<real>246.75</real>
+					<key>Min</key>
+					<real>140</real>
+					<key>Name</key>
+					<string>Left Anterior Descending Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>24</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(54.060410, -221.195312, -181.000000)</string>
+						<string>(54.060410, -220.730469, -181.000000)</string>
+						<string>(54.058594, -220.728653, -181.000000)</string>
+						<string>(53.595581, -220.265625, -181.000000)</string>
+						<string>(53.595581, -219.800781, -181.000000)</string>
+						<string>(54.058594, -219.337753, -181.000000)</string>
+						<string>(54.060410, -219.335938, -181.000000)</string>
+						<string>(54.060410, -218.871094, -181.000000)</string>
+						<string>(54.523438, -218.408066, -181.000000)</string>
+						<string>(54.525253, -218.406250, -181.000000)</string>
+						<string>(54.988281, -217.943222, -181.000000)</string>
+						<string>(55.453125, -217.943222, -181.000000)</string>
+						<string>(55.916153, -218.406250, -181.000000)</string>
+						<string>(55.916153, -218.871094, -181.000000)</string>
+						<string>(55.917969, -218.872910, -181.000000)</string>
+						<string>(56.380997, -219.335938, -181.000000)</string>
+						<string>(56.380997, -219.800781, -181.000000)</string>
+						<string>(55.917969, -220.263809, -181.000000)</string>
+						<string>(55.916153, -220.265625, -181.000000)</string>
+						<string>(55.916153, -220.730469, -181.000000)</string>
+						<string>(55.916153, -221.195312, -181.000000)</string>
+						<string>(55.453125, -221.658340, -181.000000)</string>
+						<string>(54.988281, -221.658340, -181.000000)</string>
+						<string>(54.523438, -221.658340, -181.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(297.003922, 162.000000)</string>
+						<string>(297.003922, 163.000000)</string>
+						<string>(297.000000, 163.003922)</string>
+						<string>(296.003922, 164.000000)</string>
+						<string>(296.003922, 165.000000)</string>
+						<string>(297.000000, 165.996078)</string>
+						<string>(297.003922, 166.000000)</string>
+						<string>(297.003922, 167.000000)</string>
+						<string>(298.000000, 167.996078)</string>
+						<string>(298.003922, 168.000000)</string>
+						<string>(299.000000, 168.996078)</string>
+						<string>(300.000000, 168.996078)</string>
+						<string>(300.996078, 168.000000)</string>
+						<string>(300.996078, 167.000000)</string>
+						<string>(301.000000, 166.996078)</string>
+						<string>(301.996078, 166.000000)</string>
+						<string>(301.996078, 165.000000)</string>
+						<string>(301.000000, 164.003922)</string>
+						<string>(300.996078, 164.000000)</string>
+						<string>(300.996078, 163.000000)</string>
+						<string>(300.996078, 162.000000)</string>
+						<string>(300.000000, 161.003922)</string>
+						<string>(299.000000, 161.003922)</string>
+						<string>(298.000000, 161.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>5922</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ImageIndex</key>
+			<integer>37</integer>
+			<key>NumberOfROIs</key>
+			<integer>2</integer>
+			<key>ROIs</key>
+			<array>
+				<dict>
+					<key>Area</key>
+					<real>0.15989898145198822</real>
+					<key>Center</key>
+					<string>(46.209080, -162.149582, -178.000000)</string>
+					<key>Dev</key>
+					<real>287.02294921875</real>
+					<key>IndexInImage</key>
+					<integer>0</integer>
+					<key>Length</key>
+					<real>1.7673103809356689</real>
+					<key>Max</key>
+					<real>1074</real>
+					<key>Mean</key>
+					<real>485.93243408203125</real>
+					<key>Min</key>
+					<real>133</real>
+					<key>Name</key>
+					<string>Left Circumflex Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>44</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(44.763535, -164.949219, -178.000000)</string>
+						<string>(44.761719, -164.947403, -178.000000)</string>
+						<string>(44.298691, -164.484375, -178.000000)</string>
+						<string>(44.298691, -164.019531, -178.000000)</string>
+						<string>(44.296875, -164.017715, -178.000000)</string>
+						<string>(43.833862, -163.554688, -178.000000)</string>
+						<string>(43.833862, -163.089844, -178.000000)</string>
+						<string>(43.833862, -162.625000, -178.000000)</string>
+						<string>(44.296875, -162.161972, -178.000000)</string>
+						<string>(44.298691, -162.160156, -178.000000)</string>
+						<string>(44.298691, -161.695312, -178.000000)</string>
+						<string>(44.761719, -161.232285, -178.000000)</string>
+						<string>(44.763535, -161.230469, -178.000000)</string>
+						<string>(44.763535, -160.765625, -178.000000)</string>
+						<string>(45.226562, -160.302597, -178.000000)</string>
+						<string>(45.228378, -160.300781, -178.000000)</string>
+						<string>(45.691406, -159.837753, -178.000000)</string>
+						<string>(45.693222, -159.835938, -178.000000)</string>
+						<string>(46.156250, -159.372910, -178.000000)</string>
+						<string>(46.621094, -159.372910, -178.000000)</string>
+						<string>(47.085938, -159.372910, -178.000000)</string>
+						<string>(47.087753, -159.371094, -178.000000)</string>
+						<string>(47.550781, -158.908066, -178.000000)</string>
+						<string>(48.013809, -159.371094, -178.000000)</string>
+						<string>(48.015625, -159.372910, -178.000000)</string>
+						<string>(48.478653, -159.835938, -178.000000)</string>
+						<string>(48.478653, -160.300781, -178.000000)</string>
+						<string>(48.478653, -160.765625, -178.000000)</string>
+						<string>(48.478653, -161.230469, -178.000000)</string>
+						<string>(48.478653, -161.695312, -178.000000)</string>
+						<string>(48.015625, -162.158340, -178.000000)</string>
+						<string>(48.013809, -162.160156, -178.000000)</string>
+						<string>(48.013809, -162.625000, -178.000000)</string>
+						<string>(47.550781, -163.088028, -178.000000)</string>
+						<string>(47.548965, -163.089844, -178.000000)</string>
+						<string>(47.548965, -163.554688, -178.000000)</string>
+						<string>(47.085938, -164.017715, -178.000000)</string>
+						<string>(47.084122, -164.019531, -178.000000)</string>
+						<string>(46.621094, -164.482559, -178.000000)</string>
+						<string>(46.619278, -164.484375, -178.000000)</string>
+						<string>(46.156250, -164.947403, -178.000000)</string>
+						<string>(46.154434, -164.949219, -178.000000)</string>
+						<string>(45.691406, -165.412231, -178.000000)</string>
+						<string>(45.226562, -165.412231, -178.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(277.003922, 283.000000)</string>
+						<string>(277.000000, 283.003922)</string>
+						<string>(276.003922, 284.000000)</string>
+						<string>(276.003922, 285.000000)</string>
+						<string>(276.000000, 285.003922)</string>
+						<string>(275.003922, 286.000000)</string>
+						<string>(275.003922, 287.000000)</string>
+						<string>(275.003922, 288.000000)</string>
+						<string>(276.000000, 288.996078)</string>
+						<string>(276.003922, 289.000000)</string>
+						<string>(276.003922, 290.000000)</string>
+						<string>(277.000000, 290.996078)</string>
+						<string>(277.003922, 291.000000)</string>
+						<string>(277.003922, 292.000000)</string>
+						<string>(278.000000, 292.996078)</string>
+						<string>(278.003922, 293.000000)</string>
+						<string>(279.000000, 293.996078)</string>
+						<string>(279.003922, 294.000000)</string>
+						<string>(280.000000, 294.996078)</string>
+						<string>(281.000000, 294.996078)</string>
+						<string>(282.000000, 294.996078)</string>
+						<string>(282.003922, 295.000000)</string>
+						<string>(283.000000, 295.996078)</string>
+						<string>(283.996078, 295.000000)</string>
+						<string>(284.000000, 294.996078)</string>
+						<string>(284.996078, 294.000000)</string>
+						<string>(284.996078, 293.000000)</string>
+						<string>(284.996078, 292.000000)</string>
+						<string>(284.996078, 291.000000)</string>
+						<string>(284.996078, 290.000000)</string>
+						<string>(284.000000, 289.003922)</string>
+						<string>(283.996078, 289.000000)</string>
+						<string>(283.996078, 288.000000)</string>
+						<string>(283.000000, 287.003922)</string>
+						<string>(282.996078, 287.000000)</string>
+						<string>(282.996078, 286.000000)</string>
+						<string>(282.000000, 285.003922)</string>
+						<string>(281.996078, 285.000000)</string>
+						<string>(281.000000, 284.003922)</string>
+						<string>(280.996078, 284.000000)</string>
+						<string>(280.000000, 283.003922)</string>
+						<string>(279.996078, 283.000000)</string>
+						<string>(279.000000, 282.003922)</string>
+						<string>(278.000000, 282.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>35959</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+				<dict>
+					<key>Area</key>
+					<real>0.054019927978515625</real>
+					<key>Center</key>
+					<string>(55.199581, -217.962540, -178.000000)</string>
+					<key>Dev</key>
+					<real>83.174552917480469</real>
+					<key>IndexInImage</key>
+					<integer>1</integer>
+					<key>Length</key>
+					<real>1.0169529914855957</real>
+					<key>Max</key>
+					<real>407</real>
+					<key>Mean</key>
+					<real>257.44000244140625</real>
+					<key>Min</key>
+					<real>139</real>
+					<key>Name</key>
+					<string>Left Anterior Descending Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>22</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(54.060425, -219.335938, -178.000000)</string>
+						<string>(54.060425, -218.871094, -178.000000)</string>
+						<string>(54.060425, -218.406250, -178.000000)</string>
+						<string>(54.060425, -217.941406, -178.000000)</string>
+						<string>(54.060425, -217.476562, -178.000000)</string>
+						<string>(54.060425, -217.011719, -178.000000)</string>
+						<string>(54.523438, -216.548691, -178.000000)</string>
+						<string>(54.525253, -216.546875, -178.000000)</string>
+						<string>(54.988281, -216.083847, -178.000000)</string>
+						<string>(55.453125, -216.083847, -178.000000)</string>
+						<string>(55.916153, -216.546875, -178.000000)</string>
+						<string>(55.917969, -216.548691, -178.000000)</string>
+						<string>(56.380997, -217.011719, -178.000000)</string>
+						<string>(56.380997, -217.476562, -178.000000)</string>
+						<string>(56.380997, -217.941406, -178.000000)</string>
+						<string>(56.380997, -218.406250, -178.000000)</string>
+						<string>(56.380997, -218.871094, -178.000000)</string>
+						<string>(55.917969, -219.334122, -178.000000)</string>
+						<string>(55.916153, -219.335938, -178.000000)</string>
+						<string>(55.453125, -219.798965, -178.000000)</string>
+						<string>(54.988281, -219.798965, -178.000000)</string>
+						<string>(54.523438, -219.798965, -178.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(297.003922, 166.000000)</string>
+						<string>(297.003922, 167.000000)</string>
+						<string>(297.003922, 168.000000)</string>
+						<string>(297.003922, 169.000000)</string>
+						<string>(297.003922, 170.000000)</string>
+						<string>(297.003922, 171.000000)</string>
+						<string>(298.000000, 171.996078)</string>
+						<string>(298.003922, 172.000000)</string>
+						<string>(299.000000, 172.996078)</string>
+						<string>(300.000000, 172.996078)</string>
+						<string>(300.996078, 172.000000)</string>
+						<string>(301.000000, 171.996078)</string>
+						<string>(301.996078, 171.000000)</string>
+						<string>(301.996078, 170.000000)</string>
+						<string>(301.996078, 169.000000)</string>
+						<string>(301.996078, 168.000000)</string>
+						<string>(301.996078, 167.000000)</string>
+						<string>(301.000000, 166.003922)</string>
+						<string>(300.996078, 166.000000)</string>
+						<string>(300.000000, 165.003922)</string>
+						<string>(299.000000, 165.003922)</string>
+						<string>(298.000000, 165.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>6436</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ImageIndex</key>
+			<integer>38</integer>
+			<key>NumberOfROIs</key>
+			<integer>2</integer>
+			<key>ROIs</key>
+			<array>
+				<dict>
+					<key>Area</key>
+					<real>0.023768767714500427</real>
+					<key>Center</key>
+					<string>(45.168457, -163.496582, -175.000000)</string>
+					<key>Dev</key>
+					<real>27.327974319458008</real>
+					<key>IndexInImage</key>
+					<integer>0</integer>
+					<key>Length</key>
+					<real>0.73804682493209839</real>
+					<key>Max</key>
+					<real>220</real>
+					<key>Mean</key>
+					<real>174.27272033691406</real>
+					<key>Min</key>
+					<real>131</real>
+					<key>Name</key>
+					<string>Left Circumflex Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>16</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(44.298706, -164.484375, -175.000000)</string>
+						<string>(44.298706, -164.019531, -175.000000)</string>
+						<string>(44.298706, -163.554688, -175.000000)</string>
+						<string>(44.298706, -163.089844, -175.000000)</string>
+						<string>(44.761719, -162.626816, -175.000000)</string>
+						<string>(44.763535, -162.625000, -175.000000)</string>
+						<string>(45.226562, -162.161972, -175.000000)</string>
+						<string>(45.691406, -162.161972, -175.000000)</string>
+						<string>(46.154434, -162.625000, -175.000000)</string>
+						<string>(46.154434, -163.089844, -175.000000)</string>
+						<string>(46.154434, -163.554688, -175.000000)</string>
+						<string>(45.691406, -164.017715, -175.000000)</string>
+						<string>(45.689590, -164.019531, -175.000000)</string>
+						<string>(45.226562, -164.482559, -175.000000)</string>
+						<string>(45.224747, -164.484375, -175.000000)</string>
+						<string>(44.761719, -164.947388, -175.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(276.003922, 284.000000)</string>
+						<string>(276.003922, 285.000000)</string>
+						<string>(276.003922, 286.000000)</string>
+						<string>(276.003922, 287.000000)</string>
+						<string>(277.000000, 287.996078)</string>
+						<string>(277.003922, 288.000000)</string>
+						<string>(278.000000, 288.996078)</string>
+						<string>(279.000000, 288.996078)</string>
+						<string>(279.996078, 288.000000)</string>
+						<string>(279.996078, 287.000000)</string>
+						<string>(279.996078, 286.000000)</string>
+						<string>(279.000000, 285.003922)</string>
+						<string>(278.996078, 285.000000)</string>
+						<string>(278.000000, 284.003922)</string>
+						<string>(277.996078, 284.000000)</string>
+						<string>(277.000000, 283.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>1917</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+				<dict>
+					<key>Area</key>
+					<real>0.17934615910053253</real>
+					<key>Center</key>
+					<string>(38.535625, -169.027161, -175.000000)</string>
+					<key>Dev</key>
+					<real>107.98151397705078</real>
+					<key>IndexInImage</key>
+					<integer>1</integer>
+					<key>Length</key>
+					<real>2.6265861988067627</real>
+					<key>Max</key>
+					<real>558</real>
+					<key>Mean</key>
+					<real>263.45782470703125</real>
+					<key>Min</key>
+					<real>130</real>
+					<key>Name</key>
+					<string>Left Circumflex Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>66</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(34.536980, -171.921875, -175.000000)</string>
+						<string>(34.535156, -171.920059, -175.000000)</string>
+						<string>(34.072136, -171.457031, -175.000000)</string>
+						<string>(34.072136, -170.992188, -175.000000)</string>
+						<string>(34.535156, -170.529160, -175.000000)</string>
+						<string>(35.000000, -170.529160, -175.000000)</string>
+						<string>(35.001816, -170.527344, -175.000000)</string>
+						<string>(35.464844, -170.064316, -175.000000)</string>
+						<string>(35.466660, -170.062500, -175.000000)</string>
+						<string>(35.929688, -169.599472, -175.000000)</string>
+						<string>(35.931503, -169.597656, -175.000000)</string>
+						<string>(35.929688, -169.595840, -175.000000)</string>
+						<string>(35.466660, -169.132812, -175.000000)</string>
+						<string>(35.929688, -168.669785, -175.000000)</string>
+						<string>(35.931503, -168.667969, -175.000000)</string>
+						<string>(36.394531, -168.204941, -175.000000)</string>
+						<string>(36.859375, -168.204941, -175.000000)</string>
+						<string>(37.324219, -168.204941, -175.000000)</string>
+						<string>(37.789062, -168.204941, -175.000000)</string>
+						<string>(38.253906, -168.204941, -175.000000)</string>
+						<string>(38.718750, -168.204941, -175.000000)</string>
+						<string>(38.720566, -168.203125, -175.000000)</string>
+						<string>(39.183594, -167.740097, -175.000000)</string>
+						<string>(39.185410, -167.738281, -175.000000)</string>
+						<string>(39.648438, -167.275253, -175.000000)</string>
+						<string>(39.650253, -167.273438, -175.000000)</string>
+						<string>(39.650253, -166.808594, -175.000000)</string>
+						<string>(40.113281, -166.345566, -175.000000)</string>
+						<string>(40.115097, -166.343750, -175.000000)</string>
+						<string>(40.578125, -165.880722, -175.000000)</string>
+						<string>(41.042969, -165.880722, -175.000000)</string>
+						<string>(41.507812, -165.880722, -175.000000)</string>
+						<string>(41.972656, -165.880722, -175.000000)</string>
+						<string>(42.437500, -165.880722, -175.000000)</string>
+						<string>(42.902344, -165.880722, -175.000000)</string>
+						<string>(43.365372, -166.343750, -175.000000)</string>
+						<string>(43.365372, -166.808594, -175.000000)</string>
+						<string>(42.902344, -167.271622, -175.000000)</string>
+						<string>(42.900528, -167.273438, -175.000000)</string>
+						<string>(42.900528, -167.738281, -175.000000)</string>
+						<string>(42.437500, -168.201309, -175.000000)</string>
+						<string>(42.435684, -168.203125, -175.000000)</string>
+						<string>(41.972656, -168.666153, -175.000000)</string>
+						<string>(41.507812, -168.666153, -175.000000)</string>
+						<string>(41.505997, -168.667969, -175.000000)</string>
+						<string>(41.042969, -169.130997, -175.000000)</string>
+						<string>(40.578125, -169.130997, -175.000000)</string>
+						<string>(40.113281, -169.130997, -175.000000)</string>
+						<string>(39.648438, -169.130997, -175.000000)</string>
+						<string>(39.183594, -169.130997, -175.000000)</string>
+						<string>(39.181778, -169.132812, -175.000000)</string>
+						<string>(39.181778, -169.597656, -175.000000)</string>
+						<string>(38.718750, -170.060684, -175.000000)</string>
+						<string>(38.716934, -170.062500, -175.000000)</string>
+						<string>(38.253906, -170.525528, -175.000000)</string>
+						<string>(38.252090, -170.527344, -175.000000)</string>
+						<string>(37.789062, -170.990372, -175.000000)</string>
+						<string>(37.787247, -170.992188, -175.000000)</string>
+						<string>(37.324219, -171.455215, -175.000000)</string>
+						<string>(36.859375, -171.455215, -175.000000)</string>
+						<string>(36.857559, -171.457031, -175.000000)</string>
+						<string>(36.394531, -171.920059, -175.000000)</string>
+						<string>(35.929688, -171.920059, -175.000000)</string>
+						<string>(35.927872, -171.921875, -175.000000)</string>
+						<string>(35.464844, -172.384888, -175.000000)</string>
+						<string>(35.000000, -172.384888, -175.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(255.003922, 268.000000)</string>
+						<string>(255.000000, 268.003922)</string>
+						<string>(254.003922, 269.000000)</string>
+						<string>(254.003922, 270.000000)</string>
+						<string>(255.000000, 270.996078)</string>
+						<string>(256.000000, 270.996078)</string>
+						<string>(256.003922, 271.000000)</string>
+						<string>(257.000000, 271.996078)</string>
+						<string>(257.003922, 272.000000)</string>
+						<string>(258.000000, 272.996078)</string>
+						<string>(258.003922, 273.000000)</string>
+						<string>(258.000000, 273.003922)</string>
+						<string>(257.003922, 274.000000)</string>
+						<string>(258.000000, 274.996078)</string>
+						<string>(258.003922, 275.000000)</string>
+						<string>(259.000000, 275.996078)</string>
+						<string>(260.000000, 275.996078)</string>
+						<string>(261.000000, 275.996078)</string>
+						<string>(262.000000, 275.996078)</string>
+						<string>(263.000000, 275.996078)</string>
+						<string>(264.000000, 275.996078)</string>
+						<string>(264.003922, 276.000000)</string>
+						<string>(265.000000, 276.996078)</string>
+						<string>(265.003922, 277.000000)</string>
+						<string>(266.000000, 277.996078)</string>
+						<string>(266.003922, 278.000000)</string>
+						<string>(266.003922, 279.000000)</string>
+						<string>(267.000000, 279.996078)</string>
+						<string>(267.003922, 280.000000)</string>
+						<string>(268.000000, 280.996078)</string>
+						<string>(269.000000, 280.996078)</string>
+						<string>(270.000000, 280.996078)</string>
+						<string>(271.000000, 280.996078)</string>
+						<string>(272.000000, 280.996078)</string>
+						<string>(273.000000, 280.996078)</string>
+						<string>(273.996078, 280.000000)</string>
+						<string>(273.996078, 279.000000)</string>
+						<string>(273.000000, 278.003922)</string>
+						<string>(272.996078, 278.000000)</string>
+						<string>(272.996078, 277.000000)</string>
+						<string>(272.000000, 276.003922)</string>
+						<string>(271.996078, 276.000000)</string>
+						<string>(271.000000, 275.003922)</string>
+						<string>(270.000000, 275.003922)</string>
+						<string>(269.996078, 275.000000)</string>
+						<string>(269.000000, 274.003922)</string>
+						<string>(268.000000, 274.003922)</string>
+						<string>(267.000000, 274.003922)</string>
+						<string>(266.000000, 274.003922)</string>
+						<string>(265.000000, 274.003922)</string>
+						<string>(264.996078, 274.000000)</string>
+						<string>(264.996078, 273.000000)</string>
+						<string>(264.000000, 272.003922)</string>
+						<string>(263.996078, 272.000000)</string>
+						<string>(263.000000, 271.003922)</string>
+						<string>(262.996078, 271.000000)</string>
+						<string>(262.000000, 270.003922)</string>
+						<string>(261.996078, 270.000000)</string>
+						<string>(261.000000, 269.003922)</string>
+						<string>(260.000000, 269.003922)</string>
+						<string>(259.996078, 269.000000)</string>
+						<string>(259.000000, 268.003922)</string>
+						<string>(258.000000, 268.003922)</string>
+						<string>(257.996078, 268.000000)</string>
+						<string>(257.000000, 267.003922)</string>
+						<string>(256.000000, 267.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>21867</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ImageIndex</key>
+			<integer>39</integer>
+			<key>NumberOfROIs</key>
+			<integer>3</integer>
+			<key>ROIs</key>
+			<array>
+				<dict>
+					<key>Area</key>
+					<real>0.28306442499160767</real>
+					<key>Center</key>
+					<string>(37.356506, -169.617020, -172.000000)</string>
+					<key>Dev</key>
+					<real>119.23390197753906</real>
+					<key>IndexInImage</key>
+					<integer>0</integer>
+					<key>Length</key>
+					<real>2.878262996673584</real>
+					<key>Max</key>
+					<real>576</real>
+					<key>Mean</key>
+					<real>311.9847412109375</real>
+					<key>Min</key>
+					<real>131</real>
+					<key>Name</key>
+					<string>Left Circumflex Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>72</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(32.677605, -172.851562, -172.000000)</string>
+						<string>(32.675781, -172.849747, -172.000000)</string>
+						<string>(32.212761, -172.386719, -172.000000)</string>
+						<string>(32.212761, -171.921875, -172.000000)</string>
+						<string>(32.212761, -171.457031, -172.000000)</string>
+						<string>(32.212761, -170.992188, -172.000000)</string>
+						<string>(32.212761, -170.527344, -172.000000)</string>
+						<string>(32.212761, -170.062500, -172.000000)</string>
+						<string>(32.675781, -169.599472, -172.000000)</string>
+						<string>(33.140625, -169.599472, -172.000000)</string>
+						<string>(33.142448, -169.597656, -172.000000)</string>
+						<string>(33.605469, -169.134628, -172.000000)</string>
+						<string>(34.070312, -169.134628, -172.000000)</string>
+						<string>(34.072136, -169.132812, -172.000000)</string>
+						<string>(34.535156, -168.669785, -172.000000)</string>
+						<string>(35.000000, -168.669785, -172.000000)</string>
+						<string>(35.464844, -168.669785, -172.000000)</string>
+						<string>(35.929688, -168.669785, -172.000000)</string>
+						<string>(36.394531, -168.669785, -172.000000)</string>
+						<string>(36.859375, -168.669785, -172.000000)</string>
+						<string>(36.861191, -168.667969, -172.000000)</string>
+						<string>(37.324219, -168.204941, -172.000000)</string>
+						<string>(37.326035, -168.203125, -172.000000)</string>
+						<string>(37.789062, -167.740097, -172.000000)</string>
+						<string>(38.253906, -167.740097, -172.000000)</string>
+						<string>(38.255722, -167.738281, -172.000000)</string>
+						<string>(38.718750, -167.275253, -172.000000)</string>
+						<string>(39.183594, -167.275253, -172.000000)</string>
+						<string>(39.185410, -167.273438, -172.000000)</string>
+						<string>(39.648438, -166.810410, -172.000000)</string>
+						<string>(40.113281, -166.810410, -172.000000)</string>
+						<string>(40.115097, -166.808594, -172.000000)</string>
+						<string>(40.578125, -166.345566, -172.000000)</string>
+						<string>(41.042969, -166.345566, -172.000000)</string>
+						<string>(41.507812, -166.345566, -172.000000)</string>
+						<string>(41.972656, -166.345566, -172.000000)</string>
+						<string>(42.437500, -166.345566, -172.000000)</string>
+						<string>(42.900528, -166.808594, -172.000000)</string>
+						<string>(42.900528, -167.273438, -172.000000)</string>
+						<string>(42.437500, -167.736465, -172.000000)</string>
+						<string>(42.435684, -167.738281, -172.000000)</string>
+						<string>(41.972656, -168.201309, -172.000000)</string>
+						<string>(41.970840, -168.203125, -172.000000)</string>
+						<string>(41.507812, -168.666153, -172.000000)</string>
+						<string>(41.505997, -168.667969, -172.000000)</string>
+						<string>(41.042969, -169.130997, -172.000000)</string>
+						<string>(41.041153, -169.132812, -172.000000)</string>
+						<string>(40.578125, -169.595840, -172.000000)</string>
+						<string>(40.113281, -169.595840, -172.000000)</string>
+						<string>(40.111465, -169.597656, -172.000000)</string>
+						<string>(39.648438, -170.060684, -172.000000)</string>
+						<string>(39.183594, -170.060684, -172.000000)</string>
+						<string>(39.181778, -170.062500, -172.000000)</string>
+						<string>(38.718750, -170.525528, -172.000000)</string>
+						<string>(38.253906, -170.525528, -172.000000)</string>
+						<string>(38.252090, -170.527344, -172.000000)</string>
+						<string>(37.789062, -170.990372, -172.000000)</string>
+						<string>(37.787247, -170.992188, -172.000000)</string>
+						<string>(37.324219, -171.455215, -172.000000)</string>
+						<string>(36.859375, -171.455215, -172.000000)</string>
+						<string>(36.857559, -171.457031, -172.000000)</string>
+						<string>(36.394531, -171.920059, -172.000000)</string>
+						<string>(36.392715, -171.921875, -172.000000)</string>
+						<string>(35.929688, -172.384903, -172.000000)</string>
+						<string>(35.927872, -172.386719, -172.000000)</string>
+						<string>(35.464844, -172.849747, -172.000000)</string>
+						<string>(35.000000, -172.849747, -172.000000)</string>
+						<string>(34.998177, -172.851562, -172.000000)</string>
+						<string>(34.535156, -173.314575, -172.000000)</string>
+						<string>(34.070312, -173.314575, -172.000000)</string>
+						<string>(33.605469, -173.314575, -172.000000)</string>
+						<string>(33.140625, -173.314575, -172.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(251.003922, 266.000000)</string>
+						<string>(251.000000, 266.003922)</string>
+						<string>(250.003922, 267.000000)</string>
+						<string>(250.003922, 268.000000)</string>
+						<string>(250.003922, 269.000000)</string>
+						<string>(250.003922, 270.000000)</string>
+						<string>(250.003922, 271.000000)</string>
+						<string>(250.003922, 272.000000)</string>
+						<string>(251.000000, 272.996078)</string>
+						<string>(252.000000, 272.996078)</string>
+						<string>(252.003922, 273.000000)</string>
+						<string>(253.000000, 273.996078)</string>
+						<string>(254.000000, 273.996078)</string>
+						<string>(254.003922, 274.000000)</string>
+						<string>(255.000000, 274.996078)</string>
+						<string>(256.000000, 274.996078)</string>
+						<string>(257.000000, 274.996078)</string>
+						<string>(258.000000, 274.996078)</string>
+						<string>(259.000000, 274.996078)</string>
+						<string>(260.000000, 274.996078)</string>
+						<string>(260.003922, 275.000000)</string>
+						<string>(261.000000, 275.996078)</string>
+						<string>(261.003922, 276.000000)</string>
+						<string>(262.000000, 276.996078)</string>
+						<string>(263.000000, 276.996078)</string>
+						<string>(263.003922, 277.000000)</string>
+						<string>(264.000000, 277.996078)</string>
+						<string>(265.000000, 277.996078)</string>
+						<string>(265.003922, 278.000000)</string>
+						<string>(266.000000, 278.996078)</string>
+						<string>(267.000000, 278.996078)</string>
+						<string>(267.003922, 279.000000)</string>
+						<string>(268.000000, 279.996078)</string>
+						<string>(269.000000, 279.996078)</string>
+						<string>(270.000000, 279.996078)</string>
+						<string>(271.000000, 279.996078)</string>
+						<string>(272.000000, 279.996078)</string>
+						<string>(272.996078, 279.000000)</string>
+						<string>(272.996078, 278.000000)</string>
+						<string>(272.000000, 277.003922)</string>
+						<string>(271.996078, 277.000000)</string>
+						<string>(271.000000, 276.003922)</string>
+						<string>(270.996078, 276.000000)</string>
+						<string>(270.000000, 275.003922)</string>
+						<string>(269.996078, 275.000000)</string>
+						<string>(269.000000, 274.003922)</string>
+						<string>(268.996078, 274.000000)</string>
+						<string>(268.000000, 273.003922)</string>
+						<string>(267.000000, 273.003922)</string>
+						<string>(266.996078, 273.000000)</string>
+						<string>(266.000000, 272.003922)</string>
+						<string>(265.000000, 272.003922)</string>
+						<string>(264.996078, 272.000000)</string>
+						<string>(264.000000, 271.003922)</string>
+						<string>(263.000000, 271.003922)</string>
+						<string>(262.996078, 271.000000)</string>
+						<string>(262.000000, 270.003922)</string>
+						<string>(261.996078, 270.000000)</string>
+						<string>(261.000000, 269.003922)</string>
+						<string>(260.000000, 269.003922)</string>
+						<string>(259.996078, 269.000000)</string>
+						<string>(259.000000, 268.003922)</string>
+						<string>(258.996078, 268.000000)</string>
+						<string>(258.000000, 267.003922)</string>
+						<string>(257.996078, 267.000000)</string>
+						<string>(257.000000, 266.003922)</string>
+						<string>(256.000000, 266.003922)</string>
+						<string>(255.996078, 266.000000)</string>
+						<string>(255.000000, 265.003922)</string>
+						<string>(254.000000, 265.003922)</string>
+						<string>(253.000000, 265.003922)</string>
+						<string>(252.000000, 265.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>40870</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+				<dict>
+					<key>Area</key>
+					<real>0.047537535429000854</real>
+					<key>Center</key>
+					<string>(28.534447, -174.478500, -172.000000)</string>
+					<key>Dev</key>
+					<real>73.582908630371094</real>
+					<key>IndexInImage</key>
+					<integer>1</integer>
+					<key>Length</key>
+					<real>0.9897230863571167</real>
+					<key>Max</key>
+					<real>379</real>
+					<key>Mean</key>
+					<real>243.40908813476562</real>
+					<key>Min</key>
+					<real>130</real>
+					<key>Name</key>
+					<string>Left Circumflex Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>22</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(27.099480, -175.175781, -172.000000)</string>
+						<string>(27.097656, -175.173965, -172.000000)</string>
+						<string>(26.634636, -174.710938, -172.000000)</string>
+						<string>(27.097656, -174.247910, -172.000000)</string>
+						<string>(27.099480, -174.246094, -172.000000)</string>
+						<string>(27.562500, -173.783066, -172.000000)</string>
+						<string>(27.564323, -173.781250, -172.000000)</string>
+						<string>(28.027344, -173.318222, -172.000000)</string>
+						<string>(28.492188, -173.318222, -172.000000)</string>
+						<string>(28.957031, -173.318222, -172.000000)</string>
+						<string>(29.421875, -173.318222, -172.000000)</string>
+						<string>(29.886719, -173.318222, -172.000000)</string>
+						<string>(30.349739, -173.781250, -172.000000)</string>
+						<string>(30.349739, -174.246094, -172.000000)</string>
+						<string>(29.886719, -174.709122, -172.000000)</string>
+						<string>(29.884895, -174.710938, -172.000000)</string>
+						<string>(29.884895, -175.175781, -172.000000)</string>
+						<string>(29.421875, -175.638794, -172.000000)</string>
+						<string>(28.957031, -175.638794, -172.000000)</string>
+						<string>(28.492188, -175.638794, -172.000000)</string>
+						<string>(28.027344, -175.638794, -172.000000)</string>
+						<string>(27.562500, -175.638794, -172.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(239.003922, 261.000000)</string>
+						<string>(239.000000, 261.003922)</string>
+						<string>(238.003922, 262.000000)</string>
+						<string>(239.000000, 262.996078)</string>
+						<string>(239.003922, 263.000000)</string>
+						<string>(240.000000, 263.996078)</string>
+						<string>(240.003922, 264.000000)</string>
+						<string>(241.000000, 264.996078)</string>
+						<string>(242.000000, 264.996078)</string>
+						<string>(243.000000, 264.996078)</string>
+						<string>(244.000000, 264.996078)</string>
+						<string>(245.000000, 264.996078)</string>
+						<string>(245.996078, 264.000000)</string>
+						<string>(245.996078, 263.000000)</string>
+						<string>(245.000000, 262.003922)</string>
+						<string>(244.996078, 262.000000)</string>
+						<string>(244.996078, 261.000000)</string>
+						<string>(244.000000, 260.003922)</string>
+						<string>(243.000000, 260.003922)</string>
+						<string>(242.000000, 260.003922)</string>
+						<string>(241.000000, 260.003922)</string>
+						<string>(240.000000, 260.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>5355</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+				<dict>
+					<key>Area</key>
+					<real>0.07994949072599411</real>
+					<key>Center</key>
+					<string>(52.591431, -209.646851, -172.000000)</string>
+					<key>Dev</key>
+					<real>79.90234375</real>
+					<key>IndexInImage</key>
+					<integer>2</integer>
+					<key>Length</key>
+					<real>1.3456472158432007</real>
+					<key>Max</key>
+					<real>399</real>
+					<key>Mean</key>
+					<real>241.94595336914062</real>
+					<key>Min</key>
+					<real>134</real>
+					<key>Name</key>
+					<string>Left Anterior Descending Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>32</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(53.595566, -211.433594, -172.000000)</string>
+						<string>(53.593750, -211.431778, -172.000000)</string>
+						<string>(53.128906, -211.431778, -172.000000)</string>
+						<string>(52.665878, -210.968750, -172.000000)</string>
+						<string>(52.664062, -210.966934, -172.000000)</string>
+						<string>(52.201035, -210.503906, -172.000000)</string>
+						<string>(52.199219, -210.502090, -172.000000)</string>
+						<string>(51.734375, -210.502090, -172.000000)</string>
+						<string>(51.271347, -210.039062, -172.000000)</string>
+						<string>(51.269531, -210.037247, -172.000000)</string>
+						<string>(50.806503, -209.574219, -172.000000)</string>
+						<string>(50.804688, -209.572403, -172.000000)</string>
+						<string>(50.341675, -209.109375, -172.000000)</string>
+						<string>(50.341675, -208.644531, -172.000000)</string>
+						<string>(50.341675, -208.179688, -172.000000)</string>
+						<string>(50.804688, -207.716660, -172.000000)</string>
+						<string>(51.269531, -207.716660, -172.000000)</string>
+						<string>(51.734375, -207.716660, -172.000000)</string>
+						<string>(52.199219, -207.716660, -172.000000)</string>
+						<string>(52.662247, -208.179688, -172.000000)</string>
+						<string>(52.664062, -208.181503, -172.000000)</string>
+						<string>(53.128906, -208.181503, -172.000000)</string>
+						<string>(53.591934, -208.644531, -172.000000)</string>
+						<string>(53.593750, -208.646347, -172.000000)</string>
+						<string>(54.056778, -209.109375, -172.000000)</string>
+						<string>(54.056778, -209.574219, -172.000000)</string>
+						<string>(54.058594, -209.576035, -172.000000)</string>
+						<string>(54.521622, -210.039062, -172.000000)</string>
+						<string>(54.521622, -210.503906, -172.000000)</string>
+						<string>(54.521622, -210.968750, -172.000000)</string>
+						<string>(54.521622, -211.433594, -172.000000)</string>
+						<string>(54.058594, -211.896622, -172.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(296.003922, 183.000000)</string>
+						<string>(296.000000, 183.003922)</string>
+						<string>(295.000000, 183.003922)</string>
+						<string>(294.003922, 184.000000)</string>
+						<string>(294.000000, 184.003922)</string>
+						<string>(293.003922, 185.000000)</string>
+						<string>(293.000000, 185.003922)</string>
+						<string>(292.000000, 185.003922)</string>
+						<string>(291.003922, 186.000000)</string>
+						<string>(291.000000, 186.003922)</string>
+						<string>(290.003922, 187.000000)</string>
+						<string>(290.000000, 187.003922)</string>
+						<string>(289.003922, 188.000000)</string>
+						<string>(289.003922, 189.000000)</string>
+						<string>(289.003922, 190.000000)</string>
+						<string>(290.000000, 190.996078)</string>
+						<string>(291.000000, 190.996078)</string>
+						<string>(292.000000, 190.996078)</string>
+						<string>(293.000000, 190.996078)</string>
+						<string>(293.996078, 190.000000)</string>
+						<string>(294.000000, 189.996078)</string>
+						<string>(295.000000, 189.996078)</string>
+						<string>(295.996078, 189.000000)</string>
+						<string>(296.000000, 188.996078)</string>
+						<string>(296.996078, 188.000000)</string>
+						<string>(296.996078, 187.000000)</string>
+						<string>(297.000000, 186.996078)</string>
+						<string>(297.996078, 186.000000)</string>
+						<string>(297.996078, 185.000000)</string>
+						<string>(297.996078, 184.000000)</string>
+						<string>(297.996078, 183.000000)</string>
+						<string>(297.000000, 182.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>8952</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ImageIndex</key>
+			<integer>40</integer>
+			<key>NumberOfROIs</key>
+			<integer>5</integer>
+			<key>ROIs</key>
+			<array>
+				<dict>
+					<key>Area</key>
+					<real>0.066984713077545166</real>
+					<key>Center</key>
+					<string>(26.694798, -175.067322, -169.000000)</string>
+					<key>Dev</key>
+					<real>59.837486267089844</real>
+					<key>IndexInImage</key>
+					<integer>0</integer>
+					<key>Length</key>
+					<real>1.2799084186553955</real>
+					<key>Max</key>
+					<real>328</real>
+					<key>Mean</key>
+					<real>203.51612854003906</real>
+					<key>Min</key>
+					<real>131</real>
+					<key>Name</key>
+					<string>Left Circumflex Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>30</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(24.775261, -176.570312, -169.000000)</string>
+						<string>(24.775261, -176.105469, -169.000000)</string>
+						<string>(24.775261, -175.640625, -169.000000)</string>
+						<string>(25.238281, -175.177597, -169.000000)</string>
+						<string>(25.240105, -175.175781, -169.000000)</string>
+						<string>(25.240105, -174.710938, -169.000000)</string>
+						<string>(25.240105, -174.246094, -169.000000)</string>
+						<string>(25.703125, -173.783066, -169.000000)</string>
+						<string>(26.167969, -173.783066, -169.000000)</string>
+						<string>(26.632812, -173.783066, -169.000000)</string>
+						<string>(26.634636, -173.781250, -169.000000)</string>
+						<string>(27.097656, -173.318222, -169.000000)</string>
+						<string>(27.562500, -173.318222, -169.000000)</string>
+						<string>(28.025520, -173.781250, -169.000000)</string>
+						<string>(28.027344, -173.783066, -169.000000)</string>
+						<string>(28.492188, -173.783066, -169.000000)</string>
+						<string>(28.955208, -174.246094, -169.000000)</string>
+						<string>(28.492188, -174.709122, -169.000000)</string>
+						<string>(28.490364, -174.710938, -169.000000)</string>
+						<string>(28.490364, -175.175781, -169.000000)</string>
+						<string>(28.027344, -175.638809, -169.000000)</string>
+						<string>(27.562500, -175.638809, -169.000000)</string>
+						<string>(27.560677, -175.640625, -169.000000)</string>
+						<string>(27.097656, -176.103653, -169.000000)</string>
+						<string>(26.632812, -176.103653, -169.000000)</string>
+						<string>(26.630989, -176.105469, -169.000000)</string>
+						<string>(26.167969, -176.568497, -169.000000)</string>
+						<string>(26.166145, -176.570312, -169.000000)</string>
+						<string>(25.703125, -177.033325, -169.000000)</string>
+						<string>(25.238281, -177.033325, -169.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(234.003922, 258.000000)</string>
+						<string>(234.003922, 259.000000)</string>
+						<string>(234.003922, 260.000000)</string>
+						<string>(235.000000, 260.996078)</string>
+						<string>(235.003922, 261.000000)</string>
+						<string>(235.003922, 262.000000)</string>
+						<string>(235.003922, 263.000000)</string>
+						<string>(236.000000, 263.996078)</string>
+						<string>(237.000000, 263.996078)</string>
+						<string>(238.000000, 263.996078)</string>
+						<string>(238.003922, 264.000000)</string>
+						<string>(239.000000, 264.996078)</string>
+						<string>(240.000000, 264.996078)</string>
+						<string>(240.996078, 264.000000)</string>
+						<string>(241.000000, 263.996078)</string>
+						<string>(242.000000, 263.996078)</string>
+						<string>(242.996078, 263.000000)</string>
+						<string>(242.000000, 262.003922)</string>
+						<string>(241.996078, 262.000000)</string>
+						<string>(241.996078, 261.000000)</string>
+						<string>(241.000000, 260.003922)</string>
+						<string>(240.000000, 260.003922)</string>
+						<string>(239.996078, 260.000000)</string>
+						<string>(239.000000, 259.003922)</string>
+						<string>(238.000000, 259.003922)</string>
+						<string>(237.996078, 259.000000)</string>
+						<string>(237.000000, 258.003922)</string>
+						<string>(236.996078, 258.000000)</string>
+						<string>(236.000000, 257.003922)</string>
+						<string>(235.000000, 257.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>6309</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+				<dict>
+					<key>Area</key>
+					<real>0.012964782305061817</real>
+					<key>Center</key>
+					<string>(45.226562, -203.298828, -169.000000)</string>
+					<key>Dev</key>
+					<real>4.6475801467895508</real>
+					<key>IndexInImage</key>
+					<integer>1</integer>
+					<key>Length</key>
+					<real>0.54083037376403809</real>
+					<key>Max</key>
+					<real>145</real>
+					<key>Mean</key>
+					<real>136</real>
+					<key>Min</key>
+					<real>132</real>
+					<key>Name</key>
+					<string>Left Anterior Descending Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>10</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(44.298706, -203.531250, -169.000000)</string>
+						<string>(44.298706, -203.066406, -169.000000)</string>
+						<string>(44.761719, -202.603378, -169.000000)</string>
+						<string>(45.226562, -202.603378, -169.000000)</string>
+						<string>(45.691406, -202.603378, -169.000000)</string>
+						<string>(46.154434, -203.066406, -169.000000)</string>
+						<string>(46.154434, -203.531250, -169.000000)</string>
+						<string>(45.691406, -203.994278, -169.000000)</string>
+						<string>(45.226562, -203.994278, -169.000000)</string>
+						<string>(44.761719, -203.994278, -169.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(276.003922, 200.000000)</string>
+						<string>(276.003922, 201.000000)</string>
+						<string>(277.000000, 201.996078)</string>
+						<string>(278.000000, 201.996078)</string>
+						<string>(279.000000, 201.996078)</string>
+						<string>(279.996078, 201.000000)</string>
+						<string>(279.996078, 200.000000)</string>
+						<string>(279.000000, 199.003922)</string>
+						<string>(278.000000, 199.003922)</string>
+						<string>(277.000000, 199.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>816</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+				<dict>
+					<key>Area</key>
+					<real>0.0043215942569077015</real>
+					<key>Center</key>
+					<string>(43.832047, -200.509766, -169.000000)</string>
+					<key>Dev</key>
+					<real>2.1213202476501465</real>
+					<key>IndexInImage</key>
+					<integer>2</integer>
+					<key>Length</key>
+					<real>0.35489290952682495</real>
+					<key>Max</key>
+					<real>137</real>
+					<key>Mean</key>
+					<real>135.5</real>
+					<key>Min</key>
+					<real>134</real>
+					<key>Name</key>
+					<string>Left Anterior Descending Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>6</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(43.369019, -200.742188, -169.000000)</string>
+						<string>(43.369019, -200.277344, -169.000000)</string>
+						<string>(43.832031, -199.814316, -169.000000)</string>
+						<string>(44.295059, -200.277344, -169.000000)</string>
+						<string>(44.295059, -200.742188, -169.000000)</string>
+						<string>(43.832031, -201.205215, -169.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(274.003922, 206.000000)</string>
+						<string>(274.003922, 207.000000)</string>
+						<string>(275.000000, 207.996078)</string>
+						<string>(275.996078, 207.000000)</string>
+						<string>(275.996078, 206.000000)</string>
+						<string>(275.000000, 205.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>271</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+				<dict>
+					<key>Area</key>
+					<real>0.041055146604776382</real>
+					<key>Center</key>
+					<string>(50.804688, -208.605789, -169.000000)</string>
+					<key>Dev</key>
+					<real>37.548797607421875</real>
+					<key>IndexInImage</key>
+					<integer>3</integer>
+					<key>Length</key>
+					<real>1.0010020732879639</real>
+					<key>Max</key>
+					<real>255</real>
+					<key>Mean</key>
+					<real>189.63157653808594</real>
+					<key>Min</key>
+					<real>133</real>
+					<key>Name</key>
+					<string>Left Anterior Descending Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>24</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(51.271347, -209.574219, -169.000000)</string>
+						<string>(51.269531, -209.572403, -169.000000)</string>
+						<string>(50.804688, -209.572403, -169.000000)</string>
+						<string>(50.339844, -209.572403, -169.000000)</string>
+						<string>(49.876816, -209.109375, -169.000000)</string>
+						<string>(49.875000, -209.107559, -169.000000)</string>
+						<string>(49.411972, -208.644531, -169.000000)</string>
+						<string>(49.410156, -208.642715, -169.000000)</string>
+						<string>(48.947144, -208.179688, -169.000000)</string>
+						<string>(48.947144, -207.714844, -169.000000)</string>
+						<string>(49.410156, -207.251816, -169.000000)</string>
+						<string>(49.875000, -207.251816, -169.000000)</string>
+						<string>(50.339844, -207.251816, -169.000000)</string>
+						<string>(50.802872, -207.714844, -169.000000)</string>
+						<string>(50.804688, -207.716660, -169.000000)</string>
+						<string>(51.269531, -207.716660, -169.000000)</string>
+						<string>(51.732559, -208.179688, -169.000000)</string>
+						<string>(51.734375, -208.181503, -169.000000)</string>
+						<string>(52.197403, -208.644531, -169.000000)</string>
+						<string>(52.199219, -208.646347, -169.000000)</string>
+						<string>(52.662247, -209.109375, -169.000000)</string>
+						<string>(52.199219, -209.572403, -169.000000)</string>
+						<string>(52.197403, -209.574219, -169.000000)</string>
+						<string>(51.734375, -210.037247, -169.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(291.003922, 187.000000)</string>
+						<string>(291.000000, 187.003922)</string>
+						<string>(290.000000, 187.003922)</string>
+						<string>(289.000000, 187.003922)</string>
+						<string>(288.003922, 188.000000)</string>
+						<string>(288.000000, 188.003922)</string>
+						<string>(287.003922, 189.000000)</string>
+						<string>(287.000000, 189.003922)</string>
+						<string>(286.003922, 190.000000)</string>
+						<string>(286.003922, 191.000000)</string>
+						<string>(287.000000, 191.996078)</string>
+						<string>(288.000000, 191.996078)</string>
+						<string>(289.000000, 191.996078)</string>
+						<string>(289.996078, 191.000000)</string>
+						<string>(290.000000, 190.996078)</string>
+						<string>(291.000000, 190.996078)</string>
+						<string>(291.996078, 190.000000)</string>
+						<string>(292.000000, 189.996078)</string>
+						<string>(292.996078, 189.000000)</string>
+						<string>(293.000000, 188.996078)</string>
+						<string>(293.996078, 188.000000)</string>
+						<string>(293.000000, 187.003922)</string>
+						<string>(292.996078, 187.000000)</string>
+						<string>(292.000000, 186.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>3603</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+				<dict>
+					<key>Area</key>
+					<real>0.019447173923254013</real>
+					<key>Center</key>
+					<string>(20.158209, -178.628906, -169.000000)</string>
+					<key>Dev</key>
+					<real>24.781267166137695</real>
+					<key>IndexInImage</key>
+					<integer>4</integer>
+					<key>Length</key>
+					<real>0.64507818222045898</real>
+					<key>Max</key>
+					<real>200</real>
+					<key>Mean</key>
+					<real>159.88888549804688</real>
+					<key>Min</key>
+					<real>132</real>
+					<key>Name</key>
+					<string>Left Coronary Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>14</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(19.661980, -179.359375, -169.000000)</string>
+						<string>(19.660156, -179.357559, -169.000000)</string>
+						<string>(19.197136, -178.894531, -169.000000)</string>
+						<string>(19.197136, -178.429688, -169.000000)</string>
+						<string>(19.660156, -177.966660, -169.000000)</string>
+						<string>(19.661980, -177.964844, -169.000000)</string>
+						<string>(20.125000, -177.501816, -169.000000)</string>
+						<string>(20.589844, -177.501816, -169.000000)</string>
+						<string>(21.052864, -177.964844, -169.000000)</string>
+						<string>(21.052864, -178.429688, -169.000000)</string>
+						<string>(21.052864, -178.894531, -169.000000)</string>
+						<string>(20.589844, -179.357559, -169.000000)</string>
+						<string>(20.588020, -179.359375, -169.000000)</string>
+						<string>(20.125000, -179.822403, -169.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(223.003922, 252.000000)</string>
+						<string>(223.000000, 252.003922)</string>
+						<string>(222.003922, 253.000000)</string>
+						<string>(222.003922, 254.000000)</string>
+						<string>(223.000000, 254.996078)</string>
+						<string>(223.003922, 255.000000)</string>
+						<string>(224.000000, 255.996078)</string>
+						<string>(225.000000, 255.996078)</string>
+						<string>(225.996078, 255.000000)</string>
+						<string>(225.996078, 254.000000)</string>
+						<string>(225.996078, 253.000000)</string>
+						<string>(225.000000, 252.003922)</string>
+						<string>(224.996078, 252.000000)</string>
+						<string>(224.000000, 251.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>1439</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ImageIndex</key>
+			<integer>41</integer>
+			<key>NumberOfROIs</key>
+			<integer>4</integer>
+			<key>ROIs</key>
+			<array>
+				<dict>
+					<key>Area</key>
+					<real>0.35869231820106506</real>
+					<key>Center</key>
+					<string>(35.444191, -190.768707, -166.000000)</string>
+					<key>Dev</key>
+					<real>165.71998596191406</real>
+					<key>IndexInImage</key>
+					<integer>0</integer>
+					<key>Length</key>
+					<real>3.4699115753173828</real>
+					<key>Max</key>
+					<real>800</real>
+					<key>Mean</key>
+					<real>345.74697875976562</real>
+					<key>Min</key>
+					<real>131</real>
+					<key>Name</key>
+					<string>Left Anterior Descending Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>90</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(38.255722, -195.628906, -166.000000)</string>
+						<string>(38.253906, -195.627090, -166.000000)</string>
+						<string>(37.790878, -195.164062, -166.000000)</string>
+						<string>(37.789062, -195.162247, -166.000000)</string>
+						<string>(37.326035, -194.699219, -166.000000)</string>
+						<string>(37.326035, -194.234375, -166.000000)</string>
+						<string>(37.324219, -194.232559, -166.000000)</string>
+						<string>(36.861191, -193.769531, -166.000000)</string>
+						<string>(36.859375, -193.767715, -166.000000)</string>
+						<string>(36.396347, -193.304688, -166.000000)</string>
+						<string>(36.394531, -193.302872, -166.000000)</string>
+						<string>(35.931503, -192.839844, -166.000000)</string>
+						<string>(35.929688, -192.838028, -166.000000)</string>
+						<string>(35.466660, -192.375000, -166.000000)</string>
+						<string>(35.464844, -192.373184, -166.000000)</string>
+						<string>(35.000000, -192.373184, -166.000000)</string>
+						<string>(34.535156, -192.373184, -166.000000)</string>
+						<string>(34.070312, -192.373184, -166.000000)</string>
+						<string>(33.607292, -191.910156, -166.000000)</string>
+						<string>(33.605469, -191.908340, -166.000000)</string>
+						<string>(33.140625, -191.908340, -166.000000)</string>
+						<string>(32.677605, -191.445312, -166.000000)</string>
+						<string>(32.677605, -190.980469, -166.000000)</string>
+						<string>(32.675781, -190.978653, -166.000000)</string>
+						<string>(32.212761, -190.515625, -166.000000)</string>
+						<string>(32.212761, -190.050781, -166.000000)</string>
+						<string>(32.210938, -190.048965, -166.000000)</string>
+						<string>(31.747917, -189.585938, -166.000000)</string>
+						<string>(31.747917, -189.121094, -166.000000)</string>
+						<string>(31.747917, -188.656250, -166.000000)</string>
+						<string>(31.746094, -188.654434, -166.000000)</string>
+						<string>(31.283073, -188.191406, -166.000000)</string>
+						<string>(31.281250, -188.189590, -166.000000)</string>
+						<string>(30.818230, -187.726562, -166.000000)</string>
+						<string>(30.816406, -187.724747, -166.000000)</string>
+						<string>(30.351562, -187.724747, -166.000000)</string>
+						<string>(29.888542, -187.261719, -166.000000)</string>
+						<string>(29.888542, -186.796875, -166.000000)</string>
+						<string>(29.888542, -186.332031, -166.000000)</string>
+						<string>(29.888542, -185.867188, -166.000000)</string>
+						<string>(30.351562, -185.404160, -166.000000)</string>
+						<string>(30.816406, -185.404160, -166.000000)</string>
+						<string>(31.281250, -185.404160, -166.000000)</string>
+						<string>(31.746094, -185.404160, -166.000000)</string>
+						<string>(32.209114, -185.867188, -166.000000)</string>
+						<string>(32.210938, -185.869003, -166.000000)</string>
+						<string>(32.673958, -186.332031, -166.000000)</string>
+						<string>(32.675781, -186.333847, -166.000000)</string>
+						<string>(33.140625, -186.333847, -166.000000)</string>
+						<string>(33.603645, -186.796875, -166.000000)</string>
+						<string>(33.605469, -186.798691, -166.000000)</string>
+						<string>(34.070312, -186.798691, -166.000000)</string>
+						<string>(34.533333, -187.261719, -166.000000)</string>
+						<string>(34.535156, -187.263535, -166.000000)</string>
+						<string>(34.998177, -187.726562, -166.000000)</string>
+						<string>(35.000000, -187.728378, -166.000000)</string>
+						<string>(35.463028, -188.191406, -166.000000)</string>
+						<string>(35.464844, -188.193222, -166.000000)</string>
+						<string>(35.927872, -188.656250, -166.000000)</string>
+						<string>(35.927872, -189.121094, -166.000000)</string>
+						<string>(35.929688, -189.122910, -166.000000)</string>
+						<string>(36.392715, -189.585938, -166.000000)</string>
+						<string>(36.394531, -189.587753, -166.000000)</string>
+						<string>(36.857559, -190.050781, -166.000000)</string>
+						<string>(36.859375, -190.052597, -166.000000)</string>
+						<string>(37.322403, -190.515625, -166.000000)</string>
+						<string>(37.324219, -190.517441, -166.000000)</string>
+						<string>(37.787247, -190.980469, -166.000000)</string>
+						<string>(37.789062, -190.982285, -166.000000)</string>
+						<string>(38.252090, -191.445312, -166.000000)</string>
+						<string>(38.252090, -191.910156, -166.000000)</string>
+						<string>(38.253906, -191.911972, -166.000000)</string>
+						<string>(38.716934, -192.375000, -166.000000)</string>
+						<string>(38.718750, -192.376816, -166.000000)</string>
+						<string>(39.183594, -192.376816, -166.000000)</string>
+						<string>(39.646622, -192.839844, -166.000000)</string>
+						<string>(39.648438, -192.841660, -166.000000)</string>
+						<string>(40.111465, -193.304688, -166.000000)</string>
+						<string>(40.113281, -193.306503, -166.000000)</string>
+						<string>(40.576309, -193.769531, -166.000000)</string>
+						<string>(40.576309, -194.234375, -166.000000)</string>
+						<string>(40.578125, -194.236191, -166.000000)</string>
+						<string>(41.041153, -194.699219, -166.000000)</string>
+						<string>(41.041153, -195.164062, -166.000000)</string>
+						<string>(41.041153, -195.628906, -166.000000)</string>
+						<string>(40.578125, -196.091934, -166.000000)</string>
+						<string>(40.113281, -196.091934, -166.000000)</string>
+						<string>(39.648438, -196.091934, -166.000000)</string>
+						<string>(39.183594, -196.091934, -166.000000)</string>
+						<string>(38.718750, -196.091934, -166.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(263.003922, 217.000000)</string>
+						<string>(263.000000, 217.003922)</string>
+						<string>(262.003922, 218.000000)</string>
+						<string>(262.000000, 218.003922)</string>
+						<string>(261.003922, 219.000000)</string>
+						<string>(261.003922, 220.000000)</string>
+						<string>(261.000000, 220.003922)</string>
+						<string>(260.003922, 221.000000)</string>
+						<string>(260.000000, 221.003922)</string>
+						<string>(259.003922, 222.000000)</string>
+						<string>(259.000000, 222.003922)</string>
+						<string>(258.003922, 223.000000)</string>
+						<string>(258.000000, 223.003922)</string>
+						<string>(257.003922, 224.000000)</string>
+						<string>(257.000000, 224.003922)</string>
+						<string>(256.000000, 224.003922)</string>
+						<string>(255.000000, 224.003922)</string>
+						<string>(254.000000, 224.003922)</string>
+						<string>(253.003922, 225.000000)</string>
+						<string>(253.000000, 225.003922)</string>
+						<string>(252.000000, 225.003922)</string>
+						<string>(251.003922, 226.000000)</string>
+						<string>(251.003922, 227.000000)</string>
+						<string>(251.000000, 227.003922)</string>
+						<string>(250.003922, 228.000000)</string>
+						<string>(250.003922, 229.000000)</string>
+						<string>(250.000000, 229.003922)</string>
+						<string>(249.003922, 230.000000)</string>
+						<string>(249.003922, 231.000000)</string>
+						<string>(249.003922, 232.000000)</string>
+						<string>(249.000000, 232.003922)</string>
+						<string>(248.003922, 233.000000)</string>
+						<string>(248.000000, 233.003922)</string>
+						<string>(247.003922, 234.000000)</string>
+						<string>(247.000000, 234.003922)</string>
+						<string>(246.000000, 234.003922)</string>
+						<string>(245.003922, 235.000000)</string>
+						<string>(245.003922, 236.000000)</string>
+						<string>(245.003922, 237.000000)</string>
+						<string>(245.003922, 238.000000)</string>
+						<string>(246.000000, 238.996078)</string>
+						<string>(247.000000, 238.996078)</string>
+						<string>(248.000000, 238.996078)</string>
+						<string>(249.000000, 238.996078)</string>
+						<string>(249.996078, 238.000000)</string>
+						<string>(250.000000, 237.996078)</string>
+						<string>(250.996078, 237.000000)</string>
+						<string>(251.000000, 236.996078)</string>
+						<string>(252.000000, 236.996078)</string>
+						<string>(252.996078, 236.000000)</string>
+						<string>(253.000000, 235.996078)</string>
+						<string>(254.000000, 235.996078)</string>
+						<string>(254.996078, 235.000000)</string>
+						<string>(255.000000, 234.996078)</string>
+						<string>(255.996078, 234.000000)</string>
+						<string>(256.000000, 233.996078)</string>
+						<string>(256.996078, 233.000000)</string>
+						<string>(257.000000, 232.996078)</string>
+						<string>(257.996078, 232.000000)</string>
+						<string>(257.996078, 231.000000)</string>
+						<string>(258.000000, 230.996078)</string>
+						<string>(258.996078, 230.000000)</string>
+						<string>(259.000000, 229.996078)</string>
+						<string>(259.996078, 229.000000)</string>
+						<string>(260.000000, 228.996078)</string>
+						<string>(260.996078, 228.000000)</string>
+						<string>(261.000000, 227.996078)</string>
+						<string>(261.996078, 227.000000)</string>
+						<string>(262.000000, 226.996078)</string>
+						<string>(262.996078, 226.000000)</string>
+						<string>(262.996078, 225.000000)</string>
+						<string>(263.000000, 224.996078)</string>
+						<string>(263.996078, 224.000000)</string>
+						<string>(264.000000, 223.996078)</string>
+						<string>(265.000000, 223.996078)</string>
+						<string>(265.996078, 223.000000)</string>
+						<string>(266.000000, 222.996078)</string>
+						<string>(266.996078, 222.000000)</string>
+						<string>(267.000000, 221.996078)</string>
+						<string>(267.996078, 221.000000)</string>
+						<string>(267.996078, 220.000000)</string>
+						<string>(268.000000, 219.996078)</string>
+						<string>(268.996078, 219.000000)</string>
+						<string>(268.996078, 218.000000)</string>
+						<string>(268.996078, 217.000000)</string>
+						<string>(268.000000, 216.003922)</string>
+						<string>(267.000000, 216.003922)</string>
+						<string>(266.000000, 216.003922)</string>
+						<string>(265.000000, 216.003922)</string>
+						<string>(264.000000, 216.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>57394</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+				<dict>
+					<key>Area</key>
+					<real>0.14693421125411987</real>
+					<key>Center</key>
+					<string>(11.613932, -183.963531, -166.000000)</string>
+					<key>Dev</key>
+					<real>141.350830078125</real>
+					<key>IndexInImage</key>
+					<integer>1</integer>
+					<key>Length</key>
+					<real>1.6743415594100952</real>
+					<key>Max</key>
+					<real>620</real>
+					<key>Mean</key>
+					<real>347.82351684570312</real>
+					<key>Min</key>
+					<real>135</real>
+					<key>Name</key>
+					<string>Left Coronary Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>42</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(10.829947, -185.867188, -166.000000)</string>
+						<string>(10.828125, -185.865372, -166.000000)</string>
+						<string>(10.363281, -185.865372, -166.000000)</string>
+						<string>(9.900260, -185.402344, -166.000000)</string>
+						<string>(9.898438, -185.400528, -166.000000)</string>
+						<string>(9.435416, -184.937500, -166.000000)</string>
+						<string>(9.433594, -184.935684, -166.000000)</string>
+						<string>(8.970572, -184.472656, -166.000000)</string>
+						<string>(8.968750, -184.470840, -166.000000)</string>
+						<string>(8.505729, -184.007812, -166.000000)</string>
+						<string>(8.968750, -183.544785, -166.000000)</string>
+						<string>(8.970572, -183.542969, -166.000000)</string>
+						<string>(9.433594, -183.079941, -166.000000)</string>
+						<string>(9.898438, -183.079941, -166.000000)</string>
+						<string>(9.900260, -183.078125, -166.000000)</string>
+						<string>(10.363281, -182.615097, -166.000000)</string>
+						<string>(10.365104, -182.613281, -166.000000)</string>
+						<string>(10.828125, -182.150253, -166.000000)</string>
+						<string>(10.829947, -182.148438, -166.000000)</string>
+						<string>(11.292969, -181.685410, -166.000000)</string>
+						<string>(11.757812, -181.685410, -166.000000)</string>
+						<string>(12.222656, -181.685410, -166.000000)</string>
+						<string>(12.687500, -181.685410, -166.000000)</string>
+						<string>(13.152344, -181.685410, -166.000000)</string>
+						<string>(13.615365, -182.148438, -166.000000)</string>
+						<string>(13.615365, -182.613281, -166.000000)</string>
+						<string>(13.617188, -182.615097, -166.000000)</string>
+						<string>(14.080209, -183.078125, -166.000000)</string>
+						<string>(14.082031, -183.079941, -166.000000)</string>
+						<string>(14.545053, -183.542969, -166.000000)</string>
+						<string>(14.545053, -184.007812, -166.000000)</string>
+						<string>(14.082031, -184.470840, -166.000000)</string>
+						<string>(14.080209, -184.472656, -166.000000)</string>
+						<string>(14.080209, -184.937500, -166.000000)</string>
+						<string>(13.617188, -185.400528, -166.000000)</string>
+						<string>(13.152344, -185.400528, -166.000000)</string>
+						<string>(13.150521, -185.402344, -166.000000)</string>
+						<string>(12.687500, -185.865372, -166.000000)</string>
+						<string>(12.222656, -185.865372, -166.000000)</string>
+						<string>(11.757812, -185.865372, -166.000000)</string>
+						<string>(11.755990, -185.867188, -166.000000)</string>
+						<string>(11.292969, -186.330215, -166.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(204.003922, 238.000000)</string>
+						<string>(204.000000, 238.003922)</string>
+						<string>(203.000000, 238.003922)</string>
+						<string>(202.003922, 239.000000)</string>
+						<string>(202.000000, 239.003922)</string>
+						<string>(201.003922, 240.000000)</string>
+						<string>(201.000000, 240.003922)</string>
+						<string>(200.003922, 241.000000)</string>
+						<string>(200.000000, 241.003922)</string>
+						<string>(199.003922, 242.000000)</string>
+						<string>(200.000000, 242.996078)</string>
+						<string>(200.003922, 243.000000)</string>
+						<string>(201.000000, 243.996078)</string>
+						<string>(202.000000, 243.996078)</string>
+						<string>(202.003922, 244.000000)</string>
+						<string>(203.000000, 244.996078)</string>
+						<string>(203.003922, 245.000000)</string>
+						<string>(204.000000, 245.996078)</string>
+						<string>(204.003922, 246.000000)</string>
+						<string>(205.000000, 246.996078)</string>
+						<string>(206.000000, 246.996078)</string>
+						<string>(207.000000, 246.996078)</string>
+						<string>(208.000000, 246.996078)</string>
+						<string>(209.000000, 246.996078)</string>
+						<string>(209.996078, 246.000000)</string>
+						<string>(209.996078, 245.000000)</string>
+						<string>(210.000000, 244.996078)</string>
+						<string>(210.996078, 244.000000)</string>
+						<string>(211.000000, 243.996078)</string>
+						<string>(211.996078, 243.000000)</string>
+						<string>(211.996078, 242.000000)</string>
+						<string>(211.000000, 241.003922)</string>
+						<string>(210.996078, 241.000000)</string>
+						<string>(210.996078, 240.000000)</string>
+						<string>(210.000000, 239.003922)</string>
+						<string>(209.000000, 239.003922)</string>
+						<string>(208.996078, 239.000000)</string>
+						<string>(208.000000, 238.003922)</string>
+						<string>(207.000000, 238.003922)</string>
+						<string>(206.000000, 238.003922)</string>
+						<string>(205.996078, 238.000000)</string>
+						<string>(205.000000, 237.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>23652</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+				<dict>
+					<key>Area</key>
+					<real>0.07994949072599411</real>
+					<key>Center</key>
+					<string>(19.942385, -178.612289, -166.000000)</string>
+					<key>Dev</key>
+					<real>113.59304046630859</real>
+					<key>IndexInImage</key>
+					<integer>2</integer>
+					<key>Length</key>
+					<real>1.2141696214675903</real>
+					<key>Max</key>
+					<real>502</real>
+					<key>Mean</key>
+					<real>277.81082153320312</real>
+					<key>Min</key>
+					<real>130</real>
+					<key>Name</key>
+					<string>Left Coronary Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>28</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(19.197136, -180.289062, -166.000000)</string>
+						<string>(19.195312, -180.287247, -166.000000)</string>
+						<string>(18.732292, -179.824219, -166.000000)</string>
+						<string>(18.730469, -179.822403, -166.000000)</string>
+						<string>(18.267448, -179.359375, -166.000000)</string>
+						<string>(18.267448, -178.894531, -166.000000)</string>
+						<string>(18.267448, -178.429688, -166.000000)</string>
+						<string>(18.267448, -177.964844, -166.000000)</string>
+						<string>(18.730469, -177.501816, -166.000000)</string>
+						<string>(18.732292, -177.500000, -166.000000)</string>
+						<string>(19.195312, -177.036972, -166.000000)</string>
+						<string>(19.660156, -177.036972, -166.000000)</string>
+						<string>(19.661980, -177.035156, -166.000000)</string>
+						<string>(20.125000, -176.572128, -166.000000)</string>
+						<string>(20.589844, -176.572128, -166.000000)</string>
+						<string>(21.054688, -176.572128, -166.000000)</string>
+						<string>(21.517708, -177.035156, -166.000000)</string>
+						<string>(21.517708, -177.500000, -166.000000)</string>
+						<string>(21.517708, -177.964844, -166.000000)</string>
+						<string>(21.517708, -178.429688, -166.000000)</string>
+						<string>(21.517708, -178.894531, -166.000000)</string>
+						<string>(21.054688, -179.357559, -166.000000)</string>
+						<string>(21.052864, -179.359375, -166.000000)</string>
+						<string>(21.052864, -179.824219, -166.000000)</string>
+						<string>(20.589844, -180.287247, -166.000000)</string>
+						<string>(20.588020, -180.289062, -166.000000)</string>
+						<string>(20.125000, -180.752090, -166.000000)</string>
+						<string>(19.660156, -180.752090, -166.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(222.003922, 250.000000)</string>
+						<string>(222.000000, 250.003922)</string>
+						<string>(221.003922, 251.000000)</string>
+						<string>(221.000000, 251.003922)</string>
+						<string>(220.003922, 252.000000)</string>
+						<string>(220.003922, 253.000000)</string>
+						<string>(220.003922, 254.000000)</string>
+						<string>(220.003922, 255.000000)</string>
+						<string>(221.000000, 255.996078)</string>
+						<string>(221.003922, 256.000000)</string>
+						<string>(222.000000, 256.996078)</string>
+						<string>(223.000000, 256.996078)</string>
+						<string>(223.003922, 257.000000)</string>
+						<string>(224.000000, 257.996078)</string>
+						<string>(225.000000, 257.996078)</string>
+						<string>(226.000000, 257.996078)</string>
+						<string>(226.996078, 257.000000)</string>
+						<string>(226.996078, 256.000000)</string>
+						<string>(226.996078, 255.000000)</string>
+						<string>(226.996078, 254.000000)</string>
+						<string>(226.996078, 253.000000)</string>
+						<string>(226.000000, 252.003922)</string>
+						<string>(225.996078, 252.000000)</string>
+						<string>(225.996078, 251.000000)</string>
+						<string>(225.000000, 250.003922)</string>
+						<string>(224.996078, 250.000000)</string>
+						<string>(224.000000, 249.003922)</string>
+						<string>(223.000000, 249.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>10279</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+				<dict>
+					<key>Area</key>
+					<real>0.02160797081887722</real>
+					<key>Center</key>
+					<string>(14.314460, -177.035156, -166.000000)</string>
+					<key>Dev</key>
+					<real>35.191696166992188</real>
+					<key>IndexInImage</key>
+					<integer>3</integer>
+					<key>Length</key>
+					<real>0.67230802774429321</real>
+					<key>Max</key>
+					<real>240</real>
+					<key>Mean</key>
+					<real>179.69999694824219</real>
+					<key>Min</key>
+					<real>138</real>
+					<key>Name</key>
+					<string>Left Coronary Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>14</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(13.154166, -177.500000, -166.000000)</string>
+						<string>(13.154166, -177.035156, -166.000000)</string>
+						<string>(13.617188, -176.572128, -166.000000)</string>
+						<string>(13.619010, -176.570312, -166.000000)</string>
+						<string>(14.082031, -176.107285, -166.000000)</string>
+						<string>(14.546875, -176.107285, -166.000000)</string>
+						<string>(15.011719, -176.107285, -166.000000)</string>
+						<string>(15.474740, -176.570312, -166.000000)</string>
+						<string>(15.474740, -177.035156, -166.000000)</string>
+						<string>(15.011719, -177.498184, -166.000000)</string>
+						<string>(15.009896, -177.500000, -166.000000)</string>
+						<string>(14.546875, -177.963028, -166.000000)</string>
+						<string>(14.082031, -177.963028, -166.000000)</string>
+						<string>(13.617188, -177.963028, -166.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(209.003922, 256.000000)</string>
+						<string>(209.003922, 257.000000)</string>
+						<string>(210.000000, 257.996078)</string>
+						<string>(210.003922, 258.000000)</string>
+						<string>(211.000000, 258.996078)</string>
+						<string>(212.000000, 258.996078)</string>
+						<string>(213.000000, 258.996078)</string>
+						<string>(213.996078, 258.000000)</string>
+						<string>(213.996078, 257.000000)</string>
+						<string>(213.000000, 256.003922)</string>
+						<string>(212.996078, 256.000000)</string>
+						<string>(212.000000, 255.003922)</string>
+						<string>(211.000000, 255.003922)</string>
+						<string>(210.000000, 255.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>1797</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>ImageIndex</key>
+			<integer>42</integer>
+			<key>NumberOfROIs</key>
+			<integer>3</integer>
+			<key>ROIs</key>
+			<array>
+				<dict>
+					<key>Area</key>
+					<real>0.056180726736783981</real>
+					<key>Center</key>
+					<string>(35.590008, -191.552582, -163.000000)</string>
+					<key>Dev</key>
+					<real>59.673316955566406</real>
+					<key>IndexInImage</key>
+					<integer>0</integer>
+					<key>Length</key>
+					<real>1.066740870475769</real>
+					<key>Max</key>
+					<real>330</real>
+					<key>Mean</key>
+					<real>217.76922607421875</real>
+					<key>Min</key>
+					<real>138</real>
+					<key>Name</key>
+					<string>Left Anterior Descending Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>26</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(35.466660, -192.839844, -163.000000)</string>
+						<string>(35.464844, -192.838028, -163.000000)</string>
+						<string>(35.000000, -192.838028, -163.000000)</string>
+						<string>(34.536980, -192.375000, -163.000000)</string>
+						<string>(34.535156, -192.373184, -163.000000)</string>
+						<string>(34.072136, -191.910156, -163.000000)</string>
+						<string>(34.072136, -191.445312, -163.000000)</string>
+						<string>(34.072136, -190.980469, -163.000000)</string>
+						<string>(34.072136, -190.515625, -163.000000)</string>
+						<string>(34.535156, -190.052597, -163.000000)</string>
+						<string>(34.536980, -190.050781, -163.000000)</string>
+						<string>(35.000000, -189.587753, -163.000000)</string>
+						<string>(35.463028, -190.050781, -163.000000)</string>
+						<string>(35.464844, -190.052597, -163.000000)</string>
+						<string>(35.927872, -190.515625, -163.000000)</string>
+						<string>(35.929688, -190.517441, -163.000000)</string>
+						<string>(36.392715, -190.980469, -163.000000)</string>
+						<string>(36.394531, -190.982285, -163.000000)</string>
+						<string>(36.857559, -191.445312, -163.000000)</string>
+						<string>(36.859375, -191.447128, -163.000000)</string>
+						<string>(37.322403, -191.910156, -163.000000)</string>
+						<string>(37.322403, -192.375000, -163.000000)</string>
+						<string>(36.859375, -192.838028, -163.000000)</string>
+						<string>(36.857559, -192.839844, -163.000000)</string>
+						<string>(36.394531, -193.302872, -163.000000)</string>
+						<string>(35.929688, -193.302872, -163.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(257.003922, 223.000000)</string>
+						<string>(257.000000, 223.003922)</string>
+						<string>(256.000000, 223.003922)</string>
+						<string>(255.003922, 224.000000)</string>
+						<string>(255.000000, 224.003922)</string>
+						<string>(254.003922, 225.000000)</string>
+						<string>(254.003922, 226.000000)</string>
+						<string>(254.003922, 227.000000)</string>
+						<string>(254.003922, 228.000000)</string>
+						<string>(255.000000, 228.996078)</string>
+						<string>(255.003922, 229.000000)</string>
+						<string>(256.000000, 229.996078)</string>
+						<string>(256.996078, 229.000000)</string>
+						<string>(257.000000, 228.996078)</string>
+						<string>(257.996078, 228.000000)</string>
+						<string>(258.000000, 227.996078)</string>
+						<string>(258.996078, 227.000000)</string>
+						<string>(259.000000, 226.996078)</string>
+						<string>(259.996078, 226.000000)</string>
+						<string>(260.000000, 225.996078)</string>
+						<string>(260.996078, 225.000000)</string>
+						<string>(260.996078, 224.000000)</string>
+						<string>(260.000000, 223.003922)</string>
+						<string>(259.996078, 223.000000)</string>
+						<string>(259.000000, 222.003922)</string>
+						<string>(258.000000, 222.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>5662</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+				<dict>
+					<key>Area</key>
+					<real>0.038894347846508026</real>
+					<key>Center</key>
+					<string>(31.048828, -186.564453, -163.000000)</string>
+					<key>Dev</key>
+					<real>23.843168258666992</real>
+					<key>IndexInImage</key>
+					<integer>1</integer>
+					<key>Length</key>
+					<real>0.89675438404083252</real>
+					<key>Max</key>
+					<real>209</real>
+					<key>Mean</key>
+					<real>164.44444274902344</real>
+					<key>Min</key>
+					<real>130</real>
+					<key>Name</key>
+					<string>Left Anterior Descending Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>20</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(30.353386, -187.261719, -163.000000)</string>
+						<string>(30.351562, -187.259903, -163.000000)</string>
+						<string>(29.888542, -186.796875, -163.000000)</string>
+						<string>(29.886719, -186.795059, -163.000000)</string>
+						<string>(29.423698, -186.332031, -163.000000)</string>
+						<string>(29.423698, -185.867188, -163.000000)</string>
+						<string>(29.886719, -185.404160, -163.000000)</string>
+						<string>(30.351562, -185.404160, -163.000000)</string>
+						<string>(30.816406, -185.404160, -163.000000)</string>
+						<string>(31.281250, -185.404160, -163.000000)</string>
+						<string>(31.744270, -185.867188, -163.000000)</string>
+						<string>(31.746094, -185.869003, -163.000000)</string>
+						<string>(32.209114, -186.332031, -163.000000)</string>
+						<string>(32.210938, -186.333847, -163.000000)</string>
+						<string>(32.673958, -186.796875, -163.000000)</string>
+						<string>(32.673958, -187.261719, -163.000000)</string>
+						<string>(32.210938, -187.724747, -163.000000)</string>
+						<string>(31.746094, -187.724747, -163.000000)</string>
+						<string>(31.281250, -187.724747, -163.000000)</string>
+						<string>(30.816406, -187.724747, -163.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(246.003922, 235.000000)</string>
+						<string>(246.000000, 235.003922)</string>
+						<string>(245.003922, 236.000000)</string>
+						<string>(245.000000, 236.003922)</string>
+						<string>(244.003922, 237.000000)</string>
+						<string>(244.003922, 238.000000)</string>
+						<string>(245.000000, 238.996078)</string>
+						<string>(246.000000, 238.996078)</string>
+						<string>(247.000000, 238.996078)</string>
+						<string>(248.000000, 238.996078)</string>
+						<string>(248.996078, 238.000000)</string>
+						<string>(249.000000, 237.996078)</string>
+						<string>(249.996078, 237.000000)</string>
+						<string>(250.000000, 236.996078)</string>
+						<string>(250.996078, 236.000000)</string>
+						<string>(250.996078, 235.000000)</string>
+						<string>(250.000000, 234.003922)</string>
+						<string>(249.000000, 234.003922)</string>
+						<string>(248.000000, 234.003922)</string>
+						<string>(247.000000, 234.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>2960</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+				<dict>
+					<key>Area</key>
+					<real>0.092914275825023651</real>
+					<key>Center</key>
+					<string>(22.408207, -182.476562, -163.000000)</string>
+					<key>Dev</key>
+					<real>154.03857421875</real>
+					<key>IndexInImage</key>
+					<integer>2</integer>
+					<key>Length</key>
+					<real>1.3841558694839478</real>
+					<key>Max</key>
+					<real>632</real>
+					<key>Mean</key>
+					<real>330.20928955078125</real>
+					<key>Min</key>
+					<real>133</real>
+					<key>Name</key>
+					<string>Left Anterior Descending Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>34</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(21.986198, -184.007812, -163.000000)</string>
+						<string>(21.984375, -184.005997, -163.000000)</string>
+						<string>(21.521355, -183.542969, -163.000000)</string>
+						<string>(21.519531, -183.541153, -163.000000)</string>
+						<string>(21.056511, -183.078125, -163.000000)</string>
+						<string>(21.054688, -183.076309, -163.000000)</string>
+						<string>(20.591667, -182.613281, -163.000000)</string>
+						<string>(20.591667, -182.148438, -163.000000)</string>
+						<string>(20.589844, -182.146622, -163.000000)</string>
+						<string>(20.126823, -181.683594, -163.000000)</string>
+						<string>(20.589844, -181.220566, -163.000000)</string>
+						<string>(20.591667, -181.218750, -163.000000)</string>
+						<string>(20.591667, -180.753906, -163.000000)</string>
+						<string>(21.054688, -180.290878, -163.000000)</string>
+						<string>(21.519531, -180.290878, -163.000000)</string>
+						<string>(21.984375, -180.290878, -163.000000)</string>
+						<string>(22.447395, -180.753906, -163.000000)</string>
+						<string>(22.449219, -180.755722, -163.000000)</string>
+						<string>(22.912239, -181.218750, -163.000000)</string>
+						<string>(22.914062, -181.220566, -163.000000)</string>
+						<string>(23.377083, -181.683594, -163.000000)</string>
+						<string>(23.378906, -181.685410, -163.000000)</string>
+						<string>(23.841927, -182.148438, -163.000000)</string>
+						<string>(23.843750, -182.150253, -163.000000)</string>
+						<string>(24.306770, -182.613281, -163.000000)</string>
+						<string>(24.306770, -183.078125, -163.000000)</string>
+						<string>(24.308594, -183.079941, -163.000000)</string>
+						<string>(24.771614, -183.542969, -163.000000)</string>
+						<string>(24.771614, -184.007812, -163.000000)</string>
+						<string>(24.308594, -184.470840, -163.000000)</string>
+						<string>(23.843750, -184.470840, -163.000000)</string>
+						<string>(23.378906, -184.470840, -163.000000)</string>
+						<string>(22.914062, -184.470840, -163.000000)</string>
+						<string>(22.449219, -184.470840, -163.000000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(228.003922, 242.000000)</string>
+						<string>(228.000000, 242.003922)</string>
+						<string>(227.003922, 243.000000)</string>
+						<string>(227.000000, 243.003922)</string>
+						<string>(226.003922, 244.000000)</string>
+						<string>(226.000000, 244.003922)</string>
+						<string>(225.003922, 245.000000)</string>
+						<string>(225.003922, 246.000000)</string>
+						<string>(225.000000, 246.003922)</string>
+						<string>(224.003922, 247.000000)</string>
+						<string>(225.000000, 247.996078)</string>
+						<string>(225.003922, 248.000000)</string>
+						<string>(225.003922, 249.000000)</string>
+						<string>(226.000000, 249.996078)</string>
+						<string>(227.000000, 249.996078)</string>
+						<string>(228.000000, 249.996078)</string>
+						<string>(228.996078, 249.000000)</string>
+						<string>(229.000000, 248.996078)</string>
+						<string>(229.996078, 248.000000)</string>
+						<string>(230.000000, 247.996078)</string>
+						<string>(230.996078, 247.000000)</string>
+						<string>(231.000000, 246.996078)</string>
+						<string>(231.996078, 246.000000)</string>
+						<string>(232.000000, 245.996078)</string>
+						<string>(232.996078, 245.000000)</string>
+						<string>(232.996078, 244.000000)</string>
+						<string>(233.000000, 243.996078)</string>
+						<string>(233.996078, 243.000000)</string>
+						<string>(233.996078, 242.000000)</string>
+						<string>(233.000000, 241.003922)</string>
+						<string>(232.000000, 241.003922)</string>
+						<string>(231.000000, 241.003922)</string>
+						<string>(230.000000, 241.003922)</string>
+						<string>(229.000000, 241.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>14199</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

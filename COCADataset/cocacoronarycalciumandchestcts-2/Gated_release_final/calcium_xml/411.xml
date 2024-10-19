@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Images</key>
+	<array>
+		<dict>
+			<key>ImageIndex</key>
+			<integer>34</integer>
+			<key>NumberOfROIs</key>
+			<integer>1</integer>
+			<key>ROIs</key>
+			<array>
+				<dict>
+					<key>Area</key>
+					<real>0.0048564146272838116</real>
+					<key>Center</key>
+					<string>(51.326660, -159.177246, -111.500000)</string>
+					<key>Dev</key>
+					<real>5.507570743560791</real>
+					<key>IndexInImage</key>
+					<integer>0</integer>
+					<key>Length</key>
+					<real>0.36407619714736938</real>
+					<key>Max</key>
+					<real>147</real>
+					<key>Mean</key>
+					<real>140.66667175292969</real>
+					<key>Min</key>
+					<real>137</real>
+					<key>Name</key>
+					<string>Left Anterior Descending Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>8</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(50.775021, -159.328125, -111.500000)</string>
+						<string>(50.775021, -158.925781, -111.500000)</string>
+						<string>(51.175781, -158.525009, -111.500000)</string>
+						<string>(51.576553, -158.925781, -111.500000)</string>
+						<string>(51.578125, -158.927353, -111.500000)</string>
+						<string>(51.978897, -159.328125, -111.500000)</string>
+						<string>(51.578125, -159.728897, -111.500000)</string>
+						<string>(51.175781, -159.728897, -111.500000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(330.003922, 244.000000)</string>
+						<string>(330.003922, 245.000000)</string>
+						<string>(331.000000, 245.996078)</string>
+						<string>(331.996078, 245.000000)</string>
+						<string>(332.000000, 244.996078)</string>
+						<string>(332.996078, 244.000000)</string>
+						<string>(332.000000, 243.003922)</string>
+						<string>(331.000000, 243.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>422</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

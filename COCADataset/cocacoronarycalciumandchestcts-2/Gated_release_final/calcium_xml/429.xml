@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Images</key>
+	<array>
+		<dict>
+			<key>ImageIndex</key>
+			<integer>25</integer>
+			<key>NumberOfROIs</key>
+			<integer>1</integer>
+			<key>ROIs</key>
+			<array>
+				<dict>
+					<key>Area</key>
+					<real>0.0080845644697546959</real>
+					<key>Center</key>
+					<string>(49.908207, -175.429688, -149.500000)</string>
+					<key>Dev</key>
+					<real>13.533028602600098</real>
+					<key>IndexInImage</key>
+					<integer>0</integer>
+					<key>Length</key>
+					<real>0.42355057597160339</real>
+					<key>Max</key>
+					<real>176</real>
+					<key>Mean</key>
+					<real>157.85714721679688</real>
+					<key>Min</key>
+					<real>134</real>
+					<key>Name</key>
+					<string>Left Coronary Artery</string>
+					<key>NumberOfPoints</key>
+					<integer>12</integer>
+					<key>Point_mm</key>
+					<array>
+						<string>(49.286495, -175.769531, -149.500000)</string>
+						<string>(49.286495, -175.429688, -149.500000)</string>
+						<string>(49.286495, -175.089844, -149.500000)</string>
+						<string>(49.625000, -174.751328, -149.500000)</string>
+						<string>(49.964844, -174.751328, -149.500000)</string>
+						<string>(50.303360, -175.089844, -149.500000)</string>
+						<string>(50.304688, -175.091171, -149.500000)</string>
+						<string>(50.643204, -175.429688, -149.500000)</string>
+						<string>(50.304688, -175.768204, -149.500000)</string>
+						<string>(50.303360, -175.769531, -149.500000)</string>
+						<string>(49.964844, -176.108047, -149.500000)</string>
+						<string>(49.625000, -176.108047, -149.500000)</string>
+					</array>
+					<key>Point_px</key>
+					<array>
+						<string>(351.003922, 189.000000)</string>
+						<string>(351.003922, 190.000000)</string>
+						<string>(351.003922, 191.000000)</string>
+						<string>(352.000000, 191.996078)</string>
+						<string>(353.000000, 191.996078)</string>
+						<string>(353.996078, 191.000000)</string>
+						<string>(354.000000, 190.996078)</string>
+						<string>(354.996078, 190.000000)</string>
+						<string>(354.000000, 189.003922)</string>
+						<string>(353.996078, 189.000000)</string>
+						<string>(353.000000, 188.003922)</string>
+						<string>(352.000000, 188.003922)</string>
+					</array>
+					<key>Total</key>
+					<real>1105</real>
+					<key>Type</key>
+					<integer>20</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
