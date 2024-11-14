@@ -20,6 +20,28 @@ import os
 from PIL import Image, ImageDraw
 import shutil
 
+###########################################################################
+"""
+This script processes and organizes 3D coronary CT scan datasets for deep learning applications. It handles
+the conversion of DICOM images to NIfTI format, generates 3D mask volumes based on XML annotations, and
+organizes the data into structured directories for training and testing. 
+
+Main functionalities:
+- `process_xml`: Extracts pixel coordinates of coronary artery regions from XML files to generate masks.
+- `dicom_to_nifti_3D`: Converts a series of DICOM files into a single 3D NIfTI image.
+- `create_mask_image` and `create_3d_mask_array`: Generate 2D mask images from pixel coordinates and combine
+   them into a 3D mask volume for each patient.
+- `save_mask_as_nifti_3D`: Saves the 3D mask volume as a NIfTI file.
+- `Initialisation_3D`: Processes all patient data, converts DICOMs to 3D NIfTI images, and saves associated
+   3D masks in structured folders.
+- `split_data_by_pid`: Splits data into training and test sets based on specified patient IDs (PIDs).
+
+To use this script, specify the directory paths for DICOM images, XML annotations, and the output folder for
+NIfTI files. Run `Initialisation_3D` to process the entire dataset, and use `split_data_by_pid` to partition
+the data based on a predefined list of PIDs for model testing.
+"""
+###########################################################################
+
 # set the random seed to create the same train/val/test split
 np.random.seed(10015321)
 

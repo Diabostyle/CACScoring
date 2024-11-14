@@ -18,9 +18,28 @@ import seaborn as sns
 import pickle
 import os
 from PIL import Image, ImageDraw
-
 from scipy import ndimage
 import shutil
+
+#################################################################
+"""
+This script processes 3D coronary CT scan data, calculating Agatston and volume scores from DICOM files 
+and corresponding NIfTI mask images. It organizes mask files by patient, converts pixel intensities to 
+Hounsfield Units (HU), and computes total scores for each patient, saving the results into Excel and CSV files.
+
+Main functionalities:
+- `transform_to_hu`: Converts DICOM pixel values to Hounsfield Units (HU) using slope and intercept.
+- `calculate_score`: Computes Agatston and volume scores for a specific CT slice and mask pair.
+- `calculate_total_scores`: Aggregates total Agatston and volume scores for each patient by processing 
+   all slices in a NIfTI mask file.
+- `get_corresponding_ct_path`: Finds the correct DICOM file path corresponding to a given patient ID 
+   and slice index.
+- Data export: Creates a DataFrame with results and exports it to Excel and CSV.
+
+This script requires a structured directory for DICOM images and NIfTI masks and calculates scores for 
+each patient, facilitating further analysis of coronary calcium and volumetric data.
+"""
+#################################################################
 
 dataset_name ='Dataset002_COCA3D'
 base_dir = "/trinity/home/r104791/Projet/COCADataset/cocacoronarycalciumandchestcts-2"

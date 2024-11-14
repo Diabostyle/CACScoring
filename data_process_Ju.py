@@ -18,8 +18,28 @@ import seaborn as sns
 import pickle
 import os
 from PIL import Image, ImageDraw
-
 import shutil
+
+###########################################################################
+"""
+This script processes a dataset of coronary CT scans to prepare training, validation, and test datasets 
+for nnUnet training. It includes tools for handling DICOM and XML data, converting images to 
+NIfTI format, creating masks, and organizing the data into structured directories.
+
+Main functions:
+- `display_images`: Reads and displays DICOM images from a specified folder.
+- `process_xml`: Extracts pixel coordinates of ROIs from XML files to annotate coronary artery locations.
+- `plot_layer` and `display_imagesandcontour`: Visualize contours on DICOM images.
+- `dicom_to_nifti`: Converts DICOM images to NIfTI format.
+- `create_mask_image` and `save_mask_as_nifti`: Create and save mask images as NIfTI files for segmentation tasks.
+- `Initialisation`: Prepares the dataset by converting and saving each DICOM layer as a NIfTI file.
+- `split_data` and `split_data_by_pid`: Splits the dataset into training and test sets, either randomly or by patient ID (PID).
+
+Set paths to your base directory, DICOM, and XML files to use this script, and use functions for specific tasks 
+such as viewing images, converting to NIfTI, and splitting data.
+"""
+###########################################################################
+
 
 # set the random seed to create the same train/val/test split
 np.random.seed(10015321)

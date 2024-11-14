@@ -19,7 +19,19 @@ import seaborn as sns
 import statsmodels.api as sm
 
 ################################################################################################
+"""
+This script analyzes the correlation between Agatston scores and calcium volumes, based on reference and computed scores. 
+It classifies cardiovascular risk, calculates correlation coefficients (Pearson, Spearman), and visualizes the results through plots and confusion matrices.
 
+Main functions:
+- `label_class_ref` and `label_class_computed`: Classify Agatston scores into different risk categories.
+- `extract_data_from_confusion_matrix`: Extracts true and predicted labels from a confusion matrix.
+- `bootstrap_cqk`, `bootstrap_pearson`, `bootstrap_spearman`: Estimate the variability of correlation scores using bootstrapping.
+- `main`: Manages the primary analysis flow by loading data, calculating statistical correlations, and generating visualizations (scatter plots, Bland-Altman, confusion matrices).
+
+The script also includes statistical analysis and confidence intervals for correlation measurements.
+"""
+################################################################################################
 
 def label_class_ref(df):
    if df['given_agatston'] < 1:

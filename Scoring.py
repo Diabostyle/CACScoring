@@ -22,6 +22,27 @@ from PIL import Image, ImageDraw
 from scipy import ndimage
 import shutil
 
+#########################################################################
+"""
+This script processes 2D coronary CT scan data by calculating Agatston and volume scores from DICOM files
+and corresponding mask images. It organizes mask files by patient, converts pixel intensities to Hounsfield
+Units (HU), and calculates total scores for each patient, which are saved in an Excel and CSV file.
+
+Main functionalities:
+- `organize_files_by_patient`: Groups mask files by patient ID.
+- `transform_to_hu`: Converts DICOM pixel values to Hounsfield Units (HU) based on metadata.
+- `calculate_score`: Calculates Agatston and volume scores for a specific CT image and mask pair.
+- `calculate_total_scores`: Computes the total Agatston and volume scores for each patient across all slices.
+- `get_corresponding_ct_path`: Identifies the DICOM file corresponding to a specific mask file.
+- Data export: Aggregates results into a DataFrame and exports it to Excel and CSV.
+
+The script expects a structured directory for DICOM and mask files, processes each patient, and saves the
+scoring results in an organized format.
+"""
+#########################################################################
+
+
+
 dataset_name ='Dataset004_COCA2Dv3'
 base_dir = "/trinity/home/r104791/Projet/COCADataset/cocacoronarycalciumandchestcts-2"
 xml_path = base_dir + '/Gated_release_final/calcium_xml'
