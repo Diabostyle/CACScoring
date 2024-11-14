@@ -11,7 +11,7 @@ This project focuses on developing a deep learning model for coronary artery cal
 - **Evaluation**: The trained model was evaluated for accuracy in segmenting and scoring CAC, with results analyzed to ensure it met clinical standards for assessing cardiovascular risks.
 
 ### Internship Report
-For a detailed explanation of the project, its methodology, results, and insights, please refer to the [-->Internship report<--](Internship-Report.pdf).
+For a detailed explanation of the project, results, and insights, please refer to the [-->Internship report<--](Internship-Report.pdf)
 
 ### Database
 For this project, I worked with the publicly available **Stanford COCA dataset**, which includes non-contrast chest CT scans used to develop machine learning models for CAC scoring.
