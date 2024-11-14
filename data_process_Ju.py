@@ -20,6 +20,7 @@ import os
 from PIL import Image, ImageDraw
 import shutil
 
+
 ###########################################################################
 """
 This script processes a dataset of coronary CT scans to prepare training, validation, and test datasets 

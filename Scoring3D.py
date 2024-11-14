@@ -21,6 +21,7 @@ from PIL import Image, ImageDraw
 from scipy import ndimage
 import shutil
 
+
 #################################################################
 """
 This script processes 3D coronary CT scan data, calculating Agatston and volume scores from DICOM files 

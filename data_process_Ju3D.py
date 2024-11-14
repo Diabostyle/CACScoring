@@ -20,6 +20,7 @@ import os
 from PIL import Image, ImageDraw
 import shutil
 
+
 ###########################################################################
 """
 This script processes and organizes 3D coronary CT scan datasets for deep learning applications. It handles

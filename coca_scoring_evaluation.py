@@ -18,6 +18,7 @@ import scipy
 import seaborn as sns
 import statsmodels.api as sm
 
+
 ################################################################################################
 """
 This script analyzes the correlation between Agatston scores and calcium volumes, based on reference and computed scores. 

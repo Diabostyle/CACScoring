@@ -1,6 +1,7 @@
 from typing import Tuple
 from batchgenerators.utilities.file_and_folder_operations import save_json, join
 
+
 json_path = 'C:/Users/julie/Desktop/ROTTERDAM/COCADataset/cocacoronarycalciumandchestcts-2/nn-Unetdataset/nnUNet_raw/Dataset002_COCA3D'
 
 
